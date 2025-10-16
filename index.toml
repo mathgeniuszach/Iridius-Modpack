@@ -1,2 +1,41 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "5d6004ca876efde3d87e789b18c6e3c54be63ccab8b733d3f1b7c74f39f29eda"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "46d4c949ae536fe659e4b49750c5cd737e78e89e7daac603db336b3cb7a3b176"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
+file = "mods/emienchants.pw.toml"
+hash = "c3e0dc431253ce66b1c78dc3e69e80b3c41a63707b92345f92d8708bcf87ad9f"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "f9f6ab1a6f68298710ca37f82503969531856c67138c4049f20c134d8b70dc55"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e47b4547b51bcd116aa7734ccd185a4edbcec4caf7ff80ef195ada4b727f5f15"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "b8fe9e74e322076dbecdc93be50d5ba6f66015580f44d6ec77510c71fdcff304"
+metafile = true
