@@ -1,0 +1,13 @@
+name = "Critter Armory"
+filename = "critterarmory-1.20.1-0.6.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eDysihLO/versions/TieC4Xhu/critterarmory-1.20.1-0.6.3-forge.jar"
+hash-format = "sha512"
+hash = "05006c9eb2d365e8950897466a9cec30edbaf6fdcb5548255ed88463cddda025179d74e07e9e26001bf01598331bb59949f58c8535cf14a8d7bfe9e2d0ac2aea"
+
+[update]
+[update.modrinth]
+mod-id = "eDysihLO"
+version = "TieC4Xhu"

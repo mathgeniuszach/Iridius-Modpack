@@ -1,0 +1,13 @@
+name = "BlockTuner-forge"
+filename = "BlockTuner-forge-mc1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYicuy6O/versions/hvUm7l2v/BlockTuner-forge-mc1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "f06bcea34e0b8b89e4a4a085249cb2e7dd632ac85e2d071a049b6eab3b13e101f6fdf5707c6467d5036b19aa4d92dea582d4656e6020d9ee8c29b4d52777b4d1"
+
+[update]
+[update.modrinth]
+mod-id = "hYicuy6O"
+version = "hvUm7l2v"

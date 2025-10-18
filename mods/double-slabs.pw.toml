@@ -1,0 +1,13 @@
+name = "Double Slabs"
+filename = "doubleslabs-forge-1.20.1-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hcHS5k6e/versions/moL2YhNg/doubleslabs-forge-1.20.1-0.1.2.jar"
+hash-format = "sha512"
+hash = "334249b569b528eb92a51d962d304640875d858977328c96f0c99255c3677fa6653ca24abc502ef392835e9eeec82f260cd989df050bdcb1bf16b52ca2bac639"
+
+[update]
+[update.modrinth]
+mod-id = "hcHS5k6e"
+version = "moL2YhNg"

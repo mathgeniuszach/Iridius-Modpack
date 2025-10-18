@@ -1,0 +1,13 @@
+name = "Bundle Craft Plus"
+filename = "bundlecraftplus-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4bjuygly/versions/FBZczESF/bundlecraftplus-2.2.jar"
+hash-format = "sha512"
+hash = "7c863a6d8fe32f4887f4cbb631c7532b7eefddd389bc85ae8961b93f6fd064ff7f9d0e8692898a8179ed3a27494ac78f36214d3872ea809d254789f16b3eded6"
+
+[update]
+[update.modrinth]
+mod-id = "4bjuygly"
+version = "FBZczESF"
