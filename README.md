@@ -106,7 +106,6 @@ You don't need to know how all of them work to use them; if you're new to the ga
 - **[Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)** ♨️ - Adds itty bitty goblins underground with Villager like trades!
 - **[Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge)** ♨️ - An extension of vanilla Minecraft maps.
 - **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
-
 - **Food Mods**
     - **[Abnormals Delight](https://modrinth.com/mod/abnormals-delight)** - Farmer's Delight TeamAbnormals compat.
     - **[Aquaculture](https://modrinth.com/mod/aquaculture)** - Adds more fish.
@@ -118,5 +117,5 @@ You don't need to know how all of them work to use them; if you're new to the ga
 
 ### Key
 
-📜: loaded with [Synetra Connector](https://modrinth.com/mod/connector).
-♨️: loaded from [CurseForge](https://www.curseforge.com/minecraft/mc-mods) instead of [Modrinth](https://modrinth.com/mods).
+- 📜: loaded with [Synetra Connector](https://modrinth.com/mod/connector).
+- ♨️: loaded from [CurseForge](https://www.curseforge.com/minecraft/mc-mods) instead of [Modrinth](https://modrinth.com/mods).
