@@ -8,13 +8,11 @@ Here's a full list of non-library mods in this modpack.
 
 You don't need to know how all of them work to use them; if you're new to the game, the only one you'll want to learn how to use is [EMI](https://modrinth.com/mod/emi), as it'll prevent you from needing to look anything up on the Wiki.
 
-https://modrinth.com/mod/distanthorizons
-
 ### Performance/Fix Mods
 
 - **[Alternate Current](https://modrinth.com/mod/alternate-current)** - An alternate efficient and non-locational redstone implementation.
 - **[Chunky](https://modrinth.com/plugin/chunky)** - Enables pre-generation of world chunks.
-- **[Double Slabs](https://modrinth.com/mod/double-slabs)** - Allows mixing double slabs and placing vertical slabs.
+- **[Double Slabs](https://modrinth.com/mod/double-slabs)** 📜 - Allows mixing double slabs and placing vertical slabs.
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Slows your game down from rendering when not in focus.
 - **[Embeddium](https://modrinth.com/mod/embeddium)** - All-in-one performance mod, forked from Sodium.
 - **[Enlightened Block Entities](https://modrinth.com/mod/ebe-forge)** - Enhances block entities, improving performance and appearance.

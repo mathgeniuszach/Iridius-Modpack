@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "61f467d1b9e690f31216c66d54fe2baa488237a7bc73f2e60e031c87f358a3b8"
+hash = "f8e42eb5ddc1a37bab129be4d3f9853f26fcf6fdd21ae5f2bcdd9b2a61d057fa"
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-slabs.pw.toml"
-hash = "94e4442fa263cef0be33044576fa559f74c4e7167e7354f32a9451bc4fb69e6b"
+hash = "1eb8514aa57f89de8a91193163bef9d9e2cf83318c4d22c8f02e71e6fc3ab49f"
 metafile = true
 
 [[files]]
