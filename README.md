@@ -90,31 +90,31 @@ You don't need to know how all of them work to use them; if you're new to the ga
 
 ### Potential Mods???
 
-- **[The Endergetic Expansion](https://modrinth.com/mod/endergetic)** - Adds end biomes, and baloons!
-- **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
-- **[Caverns & Chasms](https://modrinth.com/mod/caverns-and-chasms)** - Small extensions to caves.
-
-- **[Neapolitan](https://teamabnormals.wiki.gg/wiki/Neapolitan)** - I scream for ice cream.
-- **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)** - Food mod.
-- **[Stardew Fishing](https://modrinth.com/mod/stardew-fishing)** - Makes Fishing have the Stardew Valley minigame.
-- **[Aquaculture](https://modrinth.com/mod/aquaculture)** - Adds more fish.
-- **[Aquaculture Delight](https://modrinth.com/mod/aquaculture-delight)** - Farmer's Delight Aquaculture compat.
-- **[Abnormals Delight](https://modrinth.com/mod/abnormals-delight)** - Farmer's Delight TeamAbnormals compat.
-
-- **[Vanilla Tweaks Resource Packs](https://vanillatweaks.net/)** - Resource packs are very powerful, even just on their own.
-- **[Spice of Life: Apple Pie Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-apple-pie-edition)** - If we wanted foods to do more stuff.
+- **Team Abnormals**
+    - **[Boatload](https://modrinth.com/mod/boatload)** - Some extra boats.
+    - **[Caverns & Chasms](https://modrinth.com/mod/caverns-and-chasms)** - Small extensions to caves.
+    - **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
+    - **[The Endergetic Expansion](https://modrinth.com/mod/endergetic)** - Adds end biomes, and baloons!
 - **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** - LOD Rendering, making it so you can have crazy render distances with a potato.
 - **[Not Enough Recipe Book](https://modrinth.com/mod/notenoughrecipebook)** - Completely removes the recipe book, improving netcode performance. We have EMI after all!
-- **[Boatload](https://modrinth.com/mod/boatload)** - Some extra boats.
 
 ### Mods to Poll
 
-- **[Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge)** ♨️ - An extension of vanilla Minecraft maps.
-- **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
 - **[Controlify](https://modrinth.com/mod/controlify)** - Controller support! If people love console so much that they must have it.
 - **[Create](https://modrinth.com/mod/create)** - A steampunky-style tech mod.
     - **[Oculus Flyway Compat](https://modrinth.com/mod/iris-flw-compat)** - Needed for Oculus and Create to play nicely together.
 - **[Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)** ♨️ - Adds itty bitty goblins underground with Villager like trades!
+- **[Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge)** ♨️ - An extension of vanilla Minecraft maps.
+- **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
+
+- **Food Mods**
+    - **[Abnormals Delight](https://modrinth.com/mod/abnormals-delight)** - Farmer's Delight TeamAbnormals compat.
+    - **[Aquaculture](https://modrinth.com/mod/aquaculture)** - Adds more fish.
+    - **[Aquaculture Delight](https://modrinth.com/mod/aquaculture-delight)** - Farmer's Delight Aquaculture compat.
+    - **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)** - Food mod.
+    - **[Neapolitan](https://teamabnormals.wiki.gg/wiki/Neapolitan)** - I scream for ice cream.
+    - **[Spice of Life: Apple Pie Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-apple-pie-edition)** - If we wanted foods to do more stuff.
+    - **[Stardew Fishing](https://modrinth.com/mod/stardew-fishing)** - Makes Fishing have the Stardew Valley minigame.
 
 ### Key
 
