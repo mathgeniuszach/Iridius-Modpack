@@ -2,7 +2,16 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "f8e42eb5ddc1a37bab129be4d3f9853f26fcf6fdd21ae5f2bcdd9b2a61d057fa"
+hash = "86046efbb43dd6ae280b893bd66a0d9fd06d375fc22a03ca1c80670133e8bec5"
+
+[[files]]
+file = "icon.png"
+hash = "1609e6854da594779f1d9f5e201bc78fb30635366f01c40cc5704c8250579fc7"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
+metafile = true
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
@@ -32,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/armor-3d.pw.toml"
+hash = "77f0a8eac3c518ffa9ee8cff01132befab7bcefb190406cb14c28b0a420bee53"
 metafile = true
 
 [[files]]
@@ -75,13 +89,23 @@ hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
 
 [[files]]
+file = "mods/citreforged.pw.toml"
+hash = "ccc0aea2b6fd6a99829f213bc91eed50f94fa4370c8db41fec9b7aba107316db"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
+file = "mods/crafttweaker.pw.toml"
+hash = "5b39d18c3cc2ba014e309a688aea1c6acbb6650b5885a349af0127990fd06824"
 metafile = true
 
 [[files]]
@@ -90,9 +114,18 @@ hash = "6c787702b9eb46cae29d61bf6adc789bf518adbdd85e55fab363de1247cfada6"
 metafile = true
 
 [[files]]
-file = "mods/double-slabs.pw.toml"
-hash = "1eb8514aa57f89de8a91193163bef9d9e2cf83318c4d22c8f02e71e6fc3ab49f"
+file = "mods/ding.pw.toml"
+hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
+
+[[files]]
+file = "mods/double-slabs.pw.toml"
+hash = "14ec0448b390c95e468270592073d9afab4319fd51ebc06292c3b884309774b8"
+metafile = true
+
+[[files]]
+file = "mods/doubleslabs-forge-1.20.1-0.1.2.jar"
+hash = "9924aebc1ea5ba1bd48969c1c32edffa67970411f50522601821ce5db20ac10d"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -165,11 +198,6 @@ hash = "d4b18897dbe6c897b49afd13ccd6402c6a8aeb4935e94e98414d594a4f67791f"
 metafile = true
 
 [[files]]
-file = "mods/faster-random.pw.toml"
-hash = "9fc93a4e5f0c14cd01c2171ab9b74defb97d5d79498b644bdc74414e744c3198"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -182,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
 metafile = true
 
 [[files]]
@@ -205,6 +238,11 @@ hash = "df07d5af0d287b944943b65e0b0990dc21fbbad6fee05b9d698a9f62b906ea9c"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "b5155604a98bb5fd86e378ebe636030ed76d799d83f98a9dbbbfcb534f503d30"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
@@ -222,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6d8ca5f4586ae60fe0771ae32a7cb3230030b92fda58d1761c770c24afaa54b2"
 metafile = true
 
 [[files]]
@@ -330,13 +373,18 @@ hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
 metafile = true
 
 [[files]]
 file = "mods/toadlib.pw.toml"
-hash = "92ac5a42033984336293653ab02fd0e1670a8d6d52e4c4ef59a0ad843adb60f1"
+hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
 metafile = true
 
 [[files]]
@@ -348,3 +396,7 @@ metafile = true
 file = "mods/vanillabackport.pw.toml"
 hash = "d4bcebc5c2ca1cf4b113959d2ad443c3c63a8a161df11e1bcbde5b5244a83e1a"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Curated Vanilla Tweaks.zip"
+hash = "954e907594e3e40c08389d43a74ea6d301d278cd60c2d301dc0049f54c9b303c"

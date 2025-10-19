@@ -1,13 +1,13 @@
 name = "Double Slabs"
-filename = "doubleslabs-fabric-1.20.1-0.1.0.jar"
+filename = "doubleslabs-forge-1.20.1-0.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hcHS5k6e/versions/LWVAQPM2/doubleslabs-fabric-1.20.1-0.1.0.jar"
+url = "https://cdn.modrinth.com/data/hcHS5k6e/versions/ynMiEuDf/doubleslabs-forge-1.20.1-0.1.0.jar"
 hash-format = "sha512"
-hash = "cdf96d3fbbdd1fdae139524396f447da4a4e3371aeae4b74fd1ac54e6f1ef6327b444c70bb26d5e5070c3974046f35cf809b9fdc8525f013d55bba139819a1f4"
+hash = "bf5a661a5410bcdf8eb9090c0f78d396d78ac44ce975bba88d634057df68c8354e3ed7fb1d0403a763931e3df7b0ec35e75f8dbec355c701a14505502f905422"
 
 [update]
 [update.modrinth]
 mod-id = "hcHS5k6e"
-version = "LWVAQPM2"
+version = "ynMiEuDf"

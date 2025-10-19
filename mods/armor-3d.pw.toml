@@ -1,0 +1,13 @@
+name = "3D Armor"
+filename = "3d-armor-0.9.2-mod.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XhxKIfGG/versions/bP8St1uj/3d-armor-0.9.2-mod.jar"
+hash-format = "sha512"
+hash = "cd9d03ef5e4d9f6c8654c8c1cde358af6a00354ace61e075000d84ffd6e82a2a43bbb5aaaa0ef27b48145181b07a3904e39932eb758d13cf2a9831bc02e2885c"
+
+[update]
+[update.modrinth]
+mod-id = "XhxKIfGG"
+version = "bP8St1uj"
