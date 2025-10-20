@@ -30,12 +30,16 @@ Content mods add brand completely new content to the game.
 - **[Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)** ♨️ - Refactor of vanilla systems like enchanting, spawners, and attributes.
 - **[Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)** ♨️ - Detailed cave biomes.
 - **[Critter Armory](https://modrinth.com/mod/critter-armory)** - Adds the ability to put player armor on critters.
+- **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
+
 
 ### Other Simple Mods
 
 Other simple mods you should know about just for the functionality.
 
 - **[Bundle Craft Plus](https://modrinth.com/mod/bundle-craft-plus)** - Adds the bundle recipe and enables scrolling in it.
+- **[Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor)** 📜 - Adds extra slots for cosmetic armor.
+- **[Cosmetica](https://modrinth.com/mod/cosmetica)** 📜 - Adds free cosmetics and a cosmetics browser.
 - **[Geophilic](https://modrinth.com/datapack/geophilic)** - A biome overhaul mod that uses vanilla blocks, without adding new biomes.
 - **[Personality](https://modrinth.com/mod/personality!)** - Adds sitting and crawling functionality.
 - **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** - Proximity chat for Minecraft.
@@ -71,13 +75,17 @@ If you're new to the game, you won't even know they're not in vanilla.
 
 - **[3D Armor](https://modrinth.com/mod/armor-3d)** - Renders armor on players in 3D.
 - **[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)** - Renders the overlay layer of skins in 3D.
+- **[Advanced Armor Bar](https://modrinth.com/mod/advanced-armor-bar)** 📜 - Makes the armor bar render based on armor type.
 - **[Amendments](https://modrinth.com/mod/amendments)** - Cauldron mixing and GUI improvements.
 - **[AppleSkin](https://modrinth.com/mod/appleskin)** - Adds food-related HUD improvements.
 - **[Armor Stands](https://modrinth.com/mod/armor-stands)** 📜 - Adds a little UI for editing armor stands.
+- **[Better Advancements](https://modrinth.com/mod/better-advancements)** - Makes the advancements screen slightly larger.
 - **[Better Brightness Slider](https://modrinth.com/mod/better-brightness-slider)** - Uncaps the brightness slider.
+- **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Shows HUD elements while riding a mount.
 - **[Block Tuner](https://modrinth.com/mod/blocktuner-forge)** - Adds a GUI for tuning note blocks.
 - **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar and shows conflicts in the controls menu.
 - **[Ding](https://modrinth.com/mod/ding)** - Plays a sound when the game is finished booting up.
+- **[Easy Anvils](https://modrinth.com/mod/easy-anvils)** - Makes anvils function more sensibly.
 - **[Gallery](https://modrinth.com/mod/gallery)** - Makes paintings have unique icons, and enables painting selectors.
 - **[GraveStone Mod](https://modrinth.com/mod/gravestone-mod)** - For those of us with KeepInventory off, prevents items from despawning.
 - **[Lamb Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)** - Makes entities that really should display light, actually display light.
@@ -90,6 +98,7 @@ If you're new to the game, you won't even know they're not in vanilla.
     - **[ETF](https://modrinth.com/mod/entitytexturefeatures)** - OptiFine texture features for blocks/items.
     - **[Fusion](https://modrinth.com/mod/fusion-connected-textures)** - Adds connected textures.
 - **[Right Click Get Crops](https://modrinth.com/mod/right-click-get-crops)** - Right click to harvest and replant crops.
+- **[Visual Workbench](https://modrinth.com/mod/visual-workbench)** - Makes crafting tables store items and display them.
 
 </details>
 
@@ -104,14 +113,17 @@ This is for useful mods you don't really need to know much about, because they e
 <summary>See Mods...</summary>
 
 - **[Alternate Current](https://modrinth.com/mod/alternate-current)** - An alternate efficient and non-locational redstone implementation.
+- **[Boat Break Fix](https://modrinth.com/mod/boat-break-fix)** - Fixes the Minecraft bug where boats falling from extremely specific heights break.
 - **[Chunky](https://modrinth.com/plugin/chunky)** - Enables pre-generation of world chunks.
 - **[Clumps](https://modrinth.com/mod/clumps)** - 
 - **[CraftTweaker](https://modrinth.com/mod/crafttweaker)** - Configuration mod to add/remove items and recipes.
-<!-- - **[Double Slabs](https://modrinth.com/mod/double-slabs)** 📜 - Allows mixing double slabs and placing vertical slabs. -->
+- **[Double Slabs](https://modrinth.com/mod/double-slabs)** - Allows mixing double slabs and placing vertical slabs.
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Slows your game down from rendering when not in focus.
 - **[Embeddium](https://modrinth.com/mod/embeddium)** - All-in-one performance mod, forked from Sodium.
+    - **[Rubidium Extra](https://modrinth.com/mod/rubidium-extra)** - Adds some extra settings to Embeddium.
 - **[Enlightened Block Entities](https://modrinth.com/mod/ebe-forge)** - Enhances block entities, improving performance and appearance.
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** - Skip rendering entities out of sight.
+- **[FancyMenu](https://modrinth.com/mod/fancymenu)** - Adds the ability to edit menu screens.
 - **[Fast Boot](https://modrinth.com/mod/fastboot)** - Improves game loading times.
 - **[FerriteCore](https://modrinth.com/mod/ferrite-core)** - Memory efficiency improvements. 
 - **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Rendering efficiency improvements.
@@ -127,6 +139,7 @@ This is for useful mods you don't really need to know much about, because they e
 - **[Noisium](https://modrinth.com/mod/noisium)** - World generation efficiency improvements.
 - **[Not Enough Animations](https://modrinth.com/mod/not-enough-animations)** - Fills in missing third-person animations from vanilla.
 - **[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)** - Prevents crashes from booting you out of the game.
+- **[Particle Core](https://modrinth.com/mod/particle-core)** - Optimizes particle rendering
 - **[Spark](https://modrinth.com/mod/spark)** - Used for profiling the game to find performance bottlenecks.
 - **[Starlight](https://modrinth.com/mod/starlight-forge)** - Optimizes the lighting engine.
 
@@ -156,12 +169,13 @@ This is for useful mods you don't really need to know much about, because they e
     - **[Oculus Flyway Compat](https://modrinth.com/mod/iris-flw-compat)** - Needed for Oculus and Create to play nicely together.
 - **[Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)** ♨️ - Adds itty bitty goblins underground with Villager like trades!
 - **[Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge)** ♨️ - An extension of vanilla Minecraft maps.
-- **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
 - **Food Mods**
     - **[Abnormals Delight](https://modrinth.com/mod/abnormals-delight)** - Farmer's Delight TeamAbnormals compat.
     - **[Aquaculture](https://modrinth.com/mod/aquaculture)** - Adds more fish.
     - **[Aquaculture Delight](https://modrinth.com/mod/aquaculture-delight)** - Farmer's Delight Aquaculture compat.
+    - **[End's Delight](https://modrinth.com/mod/ends-delight)** - End food mod.
     - **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)** - Food mod.
+    - **[Ocean's Delight](https://modrinth.com/mod/oceans-delight)** - Ocean food mod.
     - **[Neapolitan](https://teamabnormals.wiki.gg/wiki/Neapolitan)** - I scream for ice cream.
     - **[Spice of Life: Apple Pie Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-apple-pie-edition)** - If we wanted foods to do more stuff.
     - **[Stardew Fishing](https://modrinth.com/mod/stardew-fishing)** - Makes Fishing have the Stardew Valley minigame.
