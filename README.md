@@ -82,16 +82,15 @@ Other simple mods you should know about just for the functionality.
 
 These mods add functionality to the UI of the maingame, making it so you don't have to browse online wikis.
 
-- **[EMI](https://modrinth.com/mod/emi)** - A featureful and accessible item and recipe viewer.
-    - <details>
-        <summary><b>EMI Extensions</b> - mods adding more functionality to EMI</b></summary>
+-   <details>
+    <summary><b><a href="https://modrinth.com/mod/emi">EMI</a></b> - A featureful and accessible item and recipe viewer.</summary>
 
-        - **[JEI](https://modrinth.com/mod/jei)** - Needed by EMI for mod compatibility.
-        - **[EMI Loot](https://modrinth.com/mod/emi-loot)** - Adds loot tables (including mob drops and chest loot) to EMI.
-        - **[EMI Trades](https://modrinth.com/mod/emitrades)** - Adds potential villager trades to EMI.
-        - **[EMI Ores](https://modrinth.com/mod/emi-ores)** - Adds ore worldgen information to EMI.
-        - **[EMI Enchants](https://modrinth.com/mod/emienchants)** - Adds enchanting rarity and applications to EMI.
-        - **[EMIffect](https://modrinth.com/mod/emiffect)** - Adds effect descriptions and sources to EMI.
+    - **[JEI](https://modrinth.com/mod/jei)** - Needed by EMI for mod compatibility.
+    - **[EMI Loot](https://modrinth.com/mod/emi-loot)** - Adds loot tables (including mob drops and chest loot) to EMI.
+    - **[EMI Trades](https://modrinth.com/mod/emitrades)** - Adds potential villager trades to EMI.
+    - **[EMI Ores](https://modrinth.com/mod/emi-ores)** - Adds ore worldgen information to EMI.
+    - **[EMI Enchants](https://modrinth.com/mod/emienchants)** - Adds enchanting rarity and applications to EMI.
+    - **[EMIffect](https://modrinth.com/mod/emiffect)** - Adds effect descriptions and sources to EMI.
     </details>
 - **[Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions)** - Shows short descriptions of enchantments under enchanting books.
 - **[Food Effect Tooltips](https://modrinth.com/mod/food-effect-tooltips-forge)** - Shows all the effects food will give you when eaten.
@@ -128,7 +127,6 @@ If you're new to the game, you won't even know they're not in vanilla.
 - **[Oculus](https://modrinth.com/mod/oculus)** - For shaders, which enables more powerful PCs to render the game beautifully.
     - **[Oculus Flyway Compat](https://modrinth.com/mod/iris-flw-compat)** - Needed for Oculus and Create to play nicely together.
 - **OptiFine Feature Mods**
-    - **[CIT Reforged](https://modrinth.com/mod/citreforged)** - OptiFine custom item textures.
     - **[EMF](https://modrinth.com/mod/entity-model-features)** - OptiFine model features for entities.
     - **[ETF](https://modrinth.com/mod/entitytexturefeatures)** - OptiFine texture features for blocks/items.
     - **[Fusion](https://modrinth.com/mod/fusion-connected-textures)** - Adds connected textures.
