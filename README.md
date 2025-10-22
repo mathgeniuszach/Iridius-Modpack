@@ -25,13 +25,46 @@ Backport mods add functionality from Minecraft 1.21 into our 1.20 modpack.
 
 ### Content Mods
 
-Content mods add brand completely new content to the game.
+Content mods (excluding Food Mods) add brand completely new content to the game.
 
 - **[Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)** ♨️ - Refactor of vanilla systems like enchanting, spawners, and attributes.
 - **[Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)** ♨️ - Detailed cave biomes.
+- **[Create](https://modrinth.com/mod/create)** - A steampunky-style tech mod.
 - **[Critter Armory](https://modrinth.com/mod/critter-armory)** - Adds the ability to put player armor on critters.
+- **[Exposure](https://modrinth.com/mod/exposure)** - Adds photography to Minecraft, with film development.
+- **[Immersive Melodies](https://modrinth.com/mod/immersive-melodies)** - Adds musical instruments that can preset songs and ABC files!
 - **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
+- **[Naturalist](https://modrinth.com/mod/naturalist)** - Adds 24 new animals with an ecological structure and food chain.
+- **[Quark](https://modrinth.com/mod/quark)** - Many, many large and small changes. Enabled on a per-feature basis.
+- **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
+- **[Supplementaries](https://modrinth.com/mod/supplementaries)** - Small vanila-like features. Enabled on a per-feature basis.
+-   <details>
+    <summary><b>YUNG's Structure Mods</b> - Enhancements for older minecraft structures.</summary>
 
+    - **[YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)** - Enhances Desert Temples.
+    - **[YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)** - Enhances Dungeons.
+    - **[YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)** - Enhances Jungle Temples.
+    - **[YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)** - Enhances Nether Fortresses.
+    - **[YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)** - Enhances Ocean Monuments.
+    - **[YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)** - Enhances Witch Huts.
+    - **[YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)** - Enhances Strongholds.
+    - **[YUNG's Extras](https://modrinth.com/mod/yungs-extras)** - Other small minor structures.
+
+    </details>
+
+### Food Mods
+
+Food mods add yummy food to the game.
+
+- **[Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)** ♨️ - Adds more fish.
+    - **[Stardew Fishing](https://modrinth.com/mod/stardew-fishing)** - Makes fishing have the Stardew Valley minigame.
+- **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)** - Food mod.
+    - **[Abnormals Delight](https://modrinth.com/mod/abnormals-delight)** - Farmer's Delight TeamAbnormals compat.
+    - **[Aquaculture Delight](https://modrinth.com/mod/aquaculture-delight)** - Farmer's Delight Aquaculture compat.
+    - **[Farmer's Delight Compat](https://modrinth.com/mod/farmers-delight-compat)** - Tweaks various mods to make them compatible with Farmer's Delight.
+    - **[End's Delight](https://modrinth.com/mod/ends-delight)** - End food mod.
+    - **[Ocean's Delight](https://modrinth.com/mod/oceans-delight)** - Ocean food mod.
+- **[Neapolitan](https://modrinth.com/mod/neapolitan)** - I scream for ice cream.
 
 ### Other Simple Mods
 
@@ -43,6 +76,7 @@ Other simple mods you should know about just for the functionality.
 - **[Geophilic](https://modrinth.com/datapack/geophilic)** - A biome overhaul mod that uses vanilla blocks, without adding new biomes.
 - **[Personality](https://modrinth.com/mod/personality!)** - Adds sitting and crawling functionality.
 - **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** - Proximity chat for Minecraft.
+- **[What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)** - Shows what people are doing in their GUI screens.
 
 ### Ingame Wiki Mods
 
@@ -92,6 +126,7 @@ If you're new to the game, you won't even know they're not in vanilla.
 - **[Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone)** - Fast leaf decay.
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Makes mouse dragging to move items around much simpler.
 - **[Oculus](https://modrinth.com/mod/oculus)** - For shaders, which enables more powerful PCs to render the game beautifully.
+    - **[Oculus Flyway Compat](https://modrinth.com/mod/iris-flw-compat)** - Needed for Oculus and Create to play nicely together.
 - **OptiFine Feature Mods**
     - **[CIT Reforged](https://modrinth.com/mod/citreforged)** - OptiFine custom item textures.
     - **[EMF](https://modrinth.com/mod/entity-model-features)** - OptiFine model features for entities.
@@ -144,38 +179,3 @@ This is for useful mods you don't really need to know much about, because they e
 - **[Starlight](https://modrinth.com/mod/starlight-forge)** - Optimizes the lighting engine.
 
 </details>
-
-## More Mods Being Considered
-
-### Future Mods to be Added
-
-- **[Quark](https://modrinth.com/mod/quark)** - Many, many large and small changes. Enabled on a per-feature basis.
-- **[Supplementaries](https://modrinth.com/mod/supplementaries)** - Small vanila-like features. Enabled on a per-feature basis.
-
-### Potential Mods???
-
-- **Team Abnormals**
-    - **[Boatload](https://modrinth.com/mod/boatload)** - Some extra boats.
-    - **[Caverns & Chasms](https://modrinth.com/mod/caverns-and-chasms)** - Small extensions to caves.
-    - **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
-    - **[The Endergetic Expansion](https://modrinth.com/mod/endergetic)** - Adds end biomes, and baloons!
-- **[Distant Horizons](https://modrinth.com/mod/distanthorizons)** - LOD Rendering, making it so you can have crazy render distances with a potato.
-- **[Not Enough Recipe Book](https://modrinth.com/mod/notenoughrecipebook)** - Completely removes the recipe book, improving netcode performance. We have EMI after all!
-
-### Mods to Poll
-
-- **[Controlify](https://modrinth.com/mod/controlify)** - Controller support! If people love console so much that they must have it.
-- **[Create](https://modrinth.com/mod/create)** - A steampunky-style tech mod.
-    - **[Oculus Flyway Compat](https://modrinth.com/mod/iris-flw-compat)** - Needed for Oculus and Create to play nicely together.
-- **[Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)** ♨️ - Adds itty bitty goblins underground with Villager like trades!
-- **[Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge)** ♨️ - An extension of vanilla Minecraft maps.
-- **Food Mods**
-    - **[Abnormals Delight](https://modrinth.com/mod/abnormals-delight)** - Farmer's Delight TeamAbnormals compat.
-    - **[Aquaculture](https://modrinth.com/mod/aquaculture)** - Adds more fish.
-    - **[Aquaculture Delight](https://modrinth.com/mod/aquaculture-delight)** - Farmer's Delight Aquaculture compat.
-    - **[End's Delight](https://modrinth.com/mod/ends-delight)** - End food mod.
-    - **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)** - Food mod.
-    - **[Ocean's Delight](https://modrinth.com/mod/oceans-delight)** - Ocean food mod.
-    - **[Neapolitan](https://teamabnormals.wiki.gg/wiki/Neapolitan)** - I scream for ice cream.
-    - **[Spice of Life: Apple Pie Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-apple-pie-edition)** - If we wanted foods to do more stuff.
-    - **[Stardew Fishing](https://modrinth.com/mod/stardew-fishing)** - Makes Fishing have the Stardew Valley minigame.

@@ -1,0 +1,13 @@
+name = "VMinus"
+filename = "vminus-3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fWANN5B2/versions/FyXlKMU1/vminus-3.3.1.jar"
+hash-format = "sha512"
+hash = "e38533bdc1ba34ca1f8793dc0e0e6d3c14be988f940aa6c6c5e2a0bc917c866f4da32cc372359b01918820979310feb0f2afc6f74fcd69e05b98a21e02365d38"
+
+[update]
+[update.modrinth]
+mod-id = "fWANN5B2"
+version = "FyXlKMU1"
