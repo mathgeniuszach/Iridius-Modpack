@@ -1,0 +1,13 @@
+name = "No Realms Button"
+filename = "NoRealmsButton-2.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMMUyCdF/versions/TYRKC9pB/NoRealmsButton-2.0.2.jar"
+hash-format = "sha512"
+hash = "c26196e7c41ffb87a0a82543218f6b064851cd0e20ba651d73f1b9f0a5feda60064004ee22001f12f70037da1bfebe50a118e51fece56bd3a6070dbe705051b4"
+
+[update]
+[update.modrinth]
+mod-id = "AMMUyCdF"
+version = "TYRKC9pB"
