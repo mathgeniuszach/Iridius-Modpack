@@ -440,11 +440,6 @@ hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
 metafile = true
 
 [[files]]
-file = "mods/create-compatible-storage.pw.toml"
-hash = "b41d7840b9f1ed94b2027eb2d066c6d130fb0f3bb7278cf2a78ff0f689f94b33"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
