@@ -1,0 +1,19 @@
+{
+  "hiddenCategories": [
+    "text.entityculling.title",
+    "jei.key.category.cheat.mode",
+    "jei.key.category.edit.mode",
+    "jei.key.category.overlays",
+    "jei.key.category.recipe.gui",
+    "jei.key.category.hover.config.button",
+    "jei.key.category.mouse.hover",
+    "jei.key.category.dev.tools",
+    "jei.key.category.search",
+    "modmenu.nameTranslation.jade",
+    "key.modernfix",
+    "key.categories.placebo",
+    "quark.gui.keygroup.emote"
+  ],
+  "hiddenKeybinds": [],
+  "consoleLogs": true
+}

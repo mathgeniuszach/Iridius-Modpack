@@ -1,0 +1,23 @@
+{
+    "schema_version": "2",
+    "pack_overrides": {
+        "mod_resources": {
+            "required": true,
+            "hidden": true
+        },
+        "Moonlight Mods Dynamic Assets": {
+            "required": true,
+            "hidden": true
+        },
+        "fabric": {
+            "required": true,
+            "hidden": true
+        },
+        "supplementaries:darker_ropes": {
+            "hidden": true
+        },
+        "file/Quark Programmer Art.zip": {
+            "force_compatible": true
+        }
+    }
+}

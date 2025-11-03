@@ -135,7 +135,7 @@
 	"Sturdy Stone" = true
 	Thatch = false
 	"Variant Bookshelves" = false
-	"Variant Chests" = false
+	"Variant Chests" = true
 	"Variant Furnaces" = false
 	"Variant Ladders" = false
 	"Vertical Planks" = false
@@ -157,14 +157,14 @@
 		"Enable Charcoal Block" = true
 		"Enable Sugar Cane Block" = true
 		"Enable Cactus Block" = true
-		"Enable Chorus Fruit Block" = true
+		"Enable Chorus Fruit Block" = false
 		"Enable Stick Block" = true
 		"Enable Apple Crate" = true
 		"Enable Golden Apple Crate" = true
-		"Enable Potato Crate" = true
-		"Enable Carrot Crate" = true
+		"Enable Potato Crate" = false
+		"Enable Carrot Crate" = false
 		"Enable Golden Carrot Crate" = true
-		"Enable Beetroot Crate" = true
+		"Enable Beetroot Crate" = false
 		"Enable Cocoa Bean Sack" = true
 		"Enable Nether Wart Sack" = true
 		"Enable Gunpowder Sack" = true
@@ -766,15 +766,15 @@
 		"Smelt Raw Ore Blocks" = true
 
 [world]
-	"Ancient Wood" = false
-	"Azalea Wood" = false
+	"Ancient Wood" = true
+	"Azalea Wood" = true
 	"Big Stone Clusters" = false
 	"Blossom Trees" = false
 	"Chorus Vegetation" = false
 	Corundum = true
 	"Fairy Rings" = true
 	"Fallen Logs" = true
-	"Glimmering Weald" = false
+	"Glimmering Weald" = true
 	"Monster Box" = true
 	"Nether Obsidian Spikes" = true
 	"New Stone Types" = false
@@ -1559,7 +1559,7 @@
 	"Chest Searching" = false
 	"Elytra Indicator" = true
 	"Greener Grass" = true
-	"Improved Tooltips" = true
+	"Improved Tooltips" = false
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = false
 	"Soul Candles" = true

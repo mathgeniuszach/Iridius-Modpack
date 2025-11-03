@@ -1,0 +1,26 @@
+ItemEvents.tooltip(e => {
+    for (let lore of [
+        ["kubejs:heart_of_the_elements", ["Right click to ascend..."]],
+        ["minecraft:spawner", ["Give it a spawn egg to work.", "Be careful, it cannot be moved!"]],
+        ["minecraft:heart_of_the_sea", ["Infused with the power of the sea."]],
+        ["kubejs:spawner_fragment", ["Obtained by breaking spawners"]],
+        ["kubejs:pebble_of_the_earth", ["When minerals combine..."]],
+        ["kubejs:chunk_of_the_earth", ["...and density increases..."]],
+        ["kubejs:heart_of_the_earth", ["...it's really just dirt, isn't it?", "Right click for dirt."]],
+        ["kubejs:heart_of_the_sand", ["Right click for sand."]],
+        ["kubejs:heart_of_the_cards", ["You've activated my Trap Card!"]],
+        ["kubejs:heart_of_the_flame", ["Burns for over three irl years"]],
+        ["kubejs:heart_of_the_void", ["Effectively a black hole.", "Right click bedrock to open the void.", "Takes some time to cooldown."]],
+        ["kubejs:heart_of_the_air", ["A relic holding the air of times long past."]],
+        ["kubejs:heart_of_the_jungle", ["It belongs in a museum."]],
+        ["kubejs:heart_of_the_frost", ["The cold never bothered me anyway."]],
+        ["farmersdelight:skillet", ["Also known as a Frying Pan."]]
+    ]) {
+        e.addAdvanced(lore[0], ((lore) => (item, advanced, text) => {
+            for (let i = 0; i < lore[1].length; i++) {
+                text.add(i+1, Text.of(lore[1][i]).gray().italic())
+            }
+        })(lore))
+    }
+    
+})

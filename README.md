@@ -23,12 +23,24 @@ Backport mods add functionality from Minecraft 1.21 into our 1.20 modpack.
 - **[Trials Chambers Backport](https://modrinth.com/mod/trials-chambers-backport)** - Adds the trials chambers from 1.21 to 1.20.
 - **[Vanilla Backport](https://modrinth.com/mod/vanillabackport)** - Adds the Pale Garden and Chase the Skies
 
+### Other Simple Mods
+
+Other simple mods you should know about just for the functionality.
+
+- **[Bundle Craft Plus](https://modrinth.com/mod/bundle-craft-plus)** - Adds the bundle recipe and enables scrolling in it.
+- **[Geophilic](https://modrinth.com/datapack/geophilic)** - A biome overhaul mod that uses vanilla blocks, without adding new biomes.
+- **[Personality](https://modrinth.com/mod/personality!)** - Adds sitting and crawling functionality.
+- **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** - Proximity chat for Minecraft.
+- **[What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)** - Shows what people are doing in their GUI screens.
+- **[The Immersive Music Mod](https://modrinth.com/mod/immersivemusicmod)** - Adds over 100 new biome-specific songs to the game!
+- **[Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair)** - Adds a minimap.
+- **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** - Adds a world map.
+
 ### Content Mods
 
 Content mods (excluding Food Mods) add brand completely new content to the game.
 
 - **[Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)** ♨️ - Refactor of vanilla systems like enchanting, spawners, and attributes.
-- **[Alex's Caves](https://modrinth.com/mod/alexs-caves)** - Detailed cave biomes.
 - **[Cosmetic Armors](https://modrinth.com/mod/cosmeticarmours)** - Adds extra cosmetic armors.
 - **[Create](https://modrinth.com/mod/create)** - A steampunky-style tech mod.
 - **[Critter Armory](https://modrinth.com/mod/critter-armory)** - Adds the ability to put player armor on critters.
@@ -39,9 +51,11 @@ Content mods (excluding Food Mods) add brand completely new content to the game.
 - **[Quark](https://modrinth.com/mod/quark)** - Many, many large and small changes. Enabled on a per-feature basis.
 - **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
 - **[Supplementaries](https://modrinth.com/mod/supplementaries)** - Small vanila-like features. Enabled on a per-feature basis.
+- **[Table Top Craft](https://modrinth.com/mod/table-top-craft)** - Adds some common board games to Minecraft.
 -   <details>
     <summary><b>YUNG's Structure Mods</b> - Enhancements for older minecraft structures.</summary>
 
+    - **[YUNG's Better Caves](https://modrinth.com/mod/yungs-better-caves)** - Enhances Caves.
     - **[YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)** - Enhances Desert Temples.
     - **[YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)** - Enhances Dungeons.
     - **[YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)** - Enhances Jungle Temples.
@@ -64,18 +78,8 @@ Food mods add yummy food to the game.
     - **[Farmer's Delight Compat](https://modrinth.com/mod/farmers-delight-compat)** - Tweaks various mods to make them compatible with Farmer's Delight.
     - **[End's Delight](https://modrinth.com/mod/ends-delight)** - End food mod.
     - **[Ocean's Delight](https://modrinth.com/mod/oceans-delight)** - Ocean food mod.
+    - **[Vintage Delight](https://modrinth.com/mod/vintage-delight)** - Pickles and cheese!
 - **[Neapolitan](https://modrinth.com/mod/neapolitan)** - I scream for ice cream.
-
-### Other Simple Mods
-
-Other simple mods you should know about just for the functionality.
-
-- **[Bundle Craft Plus](https://modrinth.com/mod/bundle-craft-plus)** - Adds the bundle recipe and enables scrolling in it.
-- **[Geophilic](https://modrinth.com/datapack/geophilic)** - A biome overhaul mod that uses vanilla blocks, without adding new biomes.
-- **[Personality](https://modrinth.com/mod/personality!)** - Adds sitting and crawling functionality.
-- **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** - Proximity chat for Minecraft.
-- **[What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)** - Shows what people are doing in their GUI screens.
-- **[The Immersive Music Mod](https://modrinth.com/mod/immersivemusicmod)** - Adds over 100 new biome-specific songs to the game!
 
 ### Ingame Wiki Mods
 
@@ -113,10 +117,9 @@ If you're new to the game, you won't even know they're not in vanilla.
 - **[Armor Stands](https://modrinth.com/mod/armor-stands)** 📜 - Adds a little UI for editing armor stands.
 - **[Better Advancements](https://modrinth.com/mod/better-advancements)** - Makes the advancements screen slightly larger.
 - **[Better Brightness Slider](https://modrinth.com/mod/better-brightness-slider)** - Uncaps the brightness slider.
-- **[Better ModList](https://modrinth.com/mod/better-modlist)** - Makes the base game's mod list better.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Shows HUD elements while riding a mount.
 - **[Block Tuner](https://modrinth.com/mod/blocktuner-forge)** - Adds a GUI for tuning note blocks.
-- **[Controlling](https://modrinth.com/mod/controlling)** - Adds a search bar and shows conflicts in the controls menu.
+- **[CutThrough](https://modrinth.com/mod/cut-through)** - Makes sword attacks go through transparent blocks.
 - **[Ding](https://modrinth.com/mod/ding)** - Plays a sound when the game is finished booting up.
 - **[Easy Anvils](https://modrinth.com/mod/easy-anvils)** - Makes anvils function more sensibly.
 - **[Gallery](https://modrinth.com/mod/gallery)** - Makes paintings have unique icons, and enables painting selectors.
@@ -138,7 +141,7 @@ If you're new to the game, you won't even know they're not in vanilla.
 ### Performance/Fix/Server Mods
 
 This is for useful mods you don't really need to know much about, because they either:
-1. Make your game faster (e.g., Embeddium, ModernFix, Starlight)
+1. Make your game faster (e.g., Embeddium, ModernFix, Alternate Current)
 2. Fix bugs in vanilla (e.g., Model Gap Fix, Double Slabs)
 3. Are used for server maintenance/configuration (Individual Keep Inventory, Spark)
 
@@ -147,9 +150,10 @@ This is for useful mods you don't really need to know much about, because they e
 
 - **[Alternate Current](https://modrinth.com/mod/alternate-current)** - An alternate efficient and non-locational redstone implementation.
 - **[Boat Break Fix](https://modrinth.com/mod/boat-break-fix)** - Fixes the Minecraft bug where boats falling from extremely specific heights break.
+- **[Chat Patches](https://modrinth.com/mod/chatpatches)** 📜 - Adds longer chat history and fixes for chat.
 - **[Chunky](https://modrinth.com/plugin/chunky)** - Enables pre-generation of world chunks.
-- **[Clumps](https://modrinth.com/mod/clumps)** - 
-- **[CraftTweaker](https://modrinth.com/mod/crafttweaker)** - Configuration mod to add/remove items and recipes.
+- **[Clumps](https://modrinth.com/mod/clumps)** - Clumps up XP orbs to reduce lag.
+- **[Create: Compatible Storage](https://modrinth.com/mod/create-compatible-storage)** - Fixes some weird create compatibility issues.
 - **[Discord Integration](https://modrinth.com/plugin/dcintegration)** - Links up a Discord channel to the game chat.
 - **[Double Slabs](https://modrinth.com/mod/double-slabs)** - Allows mixing double slabs and placing vertical slabs.
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Slows your game down from rendering when not in focus.
@@ -158,11 +162,15 @@ This is for useful mods you don't really need to know much about, because they e
 - **[Enlightened Block Entities](https://modrinth.com/mod/ebe-forge)** - Enhances block entities, improving performance and appearance.
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** - Skip rendering entities out of sight.
 - **[Fast Boot](https://modrinth.com/mod/fastboot)** - Improves game loading times.
-- **[FerriteCore](https://modrinth.com/mod/ferrite-core)** - Memory efficiency improvements. 
+- **[FerriteCore](https://modrinth.com/mod/ferrite-core)** - Memory efficiency improvements.
 - **[Game Menu Remove GFARB](https://modrinth.com/mod/gamemenuremovegfarb)** - Removes the bug report/feedback buttons as they're not relevant to modded.
 - **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Rendering efficiency improvements.
 - **[Individual Keep Inventory](https://modrinth.com/mod/individual-keep-inventory)** - Allows turning on KeepInventory on a per-player basis.
+- **[KeybindHider](https://modrinth.com/mod/keybindhider)** - Hides keybinds from the controls menu so you're not overwhelmed.
 - **[Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)** ♨️ - Improves Minecraft netcode (so your internet go zoom).
+- **[KubeJS](https://modrinth.com/mod/kubejs)** - Content and recipe tweaker for minecraft.
+    - **[MoreJS](https://modrinth.com/mod/morejs)** - Adds some extra functionality to KubeJS.
+    - **[LootJS](https://modrinth.com/mod/lootjs)** - Adds loot functionality to KubeJS.
 - **[Language Reload](https://www.curseforge.com/minecraft/mc-mods/languagereloadunofficial)** ♨️ - Makes swapping languages much faster.
 - **[Lithium](https://modrinth.com/mod/lithium)** - All-in-one no-compromise optimization mod.
 - **[Model Gap Fix](https://modrinth.com/mod/modelfix)** - Fixes gaps in item models.
@@ -170,13 +178,13 @@ This is for useful mods you don't really need to know much about, because they e
 - **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)** - Fixes memory leaks.
 - **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** - Prevents Microsoft and others from tracking chat messages.
 - **[No Realms Button](https://modrinth.com/mod/no-realms-button)** - Removes the Realms button as it doesn't support modded.
-- **[No Teletry](https://modrinth.com/mod/no-telemetry)** - Removes Microsoft telemetry.
+- **[No Telemetry](https://modrinth.com/mod/no-telemetry)** - Removes Microsoft telemetry.
 - **[Noisium](https://modrinth.com/mod/noisium)** - World generation efficiency improvements.
 - **[Not Enough Animations](https://modrinth.com/mod/not-enough-animations)** - Fills in missing third-person animations from vanilla.
 - **[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)** - Prevents crashes from booting you out of the game.
 - **[Particle Core](https://modrinth.com/mod/particle-core)** - Optimizes particle rendering
 - **[Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides)** - Allows for hiding internal resource packs from the menu.
 - **[Spark](https://modrinth.com/mod/spark)** - Used for profiling the game to find performance bottlenecks.
-- **[Starlight](https://modrinth.com/mod/starlight-forge)** - Optimizes the lighting engine.
+- **[Styled Chat](https://modrinth.com/mod/styled-chat)** 📜 - Adds formatting, color, and markdown support to the chat.
 
 </details>

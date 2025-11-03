@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rice"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "kubejs:rice_flour"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "item": "kubejs:rice_flour"
+    }
+  ]
+}

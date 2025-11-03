@@ -1,0 +1,11 @@
+{
+    "removed": [
+        "item:kubejs:heart_of_the_frost",
+        "item:kubejs:heart_of_the_air",
+        "item:kubejs:chunk_of_the_earth",
+        "item:kubejs:heart_of_the_earth",
+        "item:kubejs:heart_of_the_cards",
+        "item:kubejs:heart_of_the_elements"
+    ],
+    "disable": true
+}

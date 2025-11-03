@@ -1,0 +1,13 @@
+name = "Create: Compatible Storage"
+filename = "create_compatible_storage-2.8.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ofroZ5W/versions/wa7gOrmo/create_compatible_storage-2.8.1-all.jar"
+hash-format = "sha512"
+hash = "3098228ae2e0b21ca83d6f8c1cbbd62b0de8a13dbf9e304c15ecbb3015cba3dbe560b67674f726a10fa0f1645e5d085b04ffbbb554b558c169bcc4e4283a8645"
+
+[update]
+[update.modrinth]
+mod-id = "5ofroZ5W"
+version = "wa7gOrmo"
