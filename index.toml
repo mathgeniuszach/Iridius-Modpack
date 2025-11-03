@@ -58,7 +58,7 @@ hash = "2d6b0cc746a7524c55237472e3186f85357104c5c3a19a10defb66f6112bf778"
 
 [[files]]
 file = "config/emi.css"
-hash = "85a0b3a32d1113bfe836485de75068d1c7715a6c4705f717c347e867a5d7b56b"
+hash = "7eb10a08f05064b47538418a917a9df61575a525b51f107f834f0d964e85cd70"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "e57ad3496f6185470581e5a3ec1a6ceb09d8cf88ccde6305c5e464332d0fe867"
+hash = "dac76b57fd114d37956011ad054aab6b5e86f1fd9e308da534bff0ca69a78989"
 metafile = true
 
 [[files]]
