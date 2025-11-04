@@ -278,6 +278,7 @@ ServerEvents.recipes(e => {
         "P": "kubejs:chunk_of_the_earth"
     })
 
+    e.remove({input: "vintagedelight:cucumber", type: "farmersdelight:cutting"})
     for (let cutting of [
         ["minecraft:bread", "refurbished_furniture:bread_slice", 5],
         ["minecraft:feather", "minecraft:string", 1],
@@ -285,10 +286,11 @@ ServerEvents.recipes(e => {
         ["minecraft:mangrove_roots", "minecraft:stick", 8],
         ["minecraft:cobweb", "minecraft:string", 2],
         ["minecraft:dead_bush", "minecraft:stick", 2],
-        ["minecraft:glow_berries", "minecraft:orange_dye"],
-        ["minecraft:sweet_berries", "minecraft:red_dye"],
-        ["minecraft:spore_blossom", "minecraft:pink_dye"],
-        ["minecraft:rotten_flesh", "minecraft:brown_dye"]
+        ["minecraft:glow_berries", "minecraft:orange_dye", 1],
+        ["minecraft:sweet_berries", "minecraft:red_dye", 1],
+        ["minecraft:spore_blossom", "minecraft:pink_dye", 1],
+        ["minecraft:rotten_flesh", "minecraft:brown_dye", 1],
+        ["vintagedelight:cucumber", "vintagedelight:cucumber_noodles", 1]
     ]) {
         e.custom({
             type: "farmersdelight:cutting",
