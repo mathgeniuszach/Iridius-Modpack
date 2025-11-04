@@ -7,14 +7,20 @@ ItemEvents.tooltip(e => {
         ["kubejs:pebble_of_the_earth", ["When minerals combine..."]],
         ["kubejs:chunk_of_the_earth", ["...and density increases..."]],
         ["kubejs:heart_of_the_earth", ["...it's really just dirt, isn't it?", "Right click for dirt."]],
-        ["kubejs:heart_of_the_sand", ["Right click for sand."]],
-        ["kubejs:heart_of_the_cards", ["You've activated my Trap Card!"]],
-        ["kubejs:heart_of_the_flame", ["Burns for over three irl years"]],
+        ["kubejs:heart_of_the_sand", ["Infused with the power of the desert.", "Right click for sand."]],
+        ["kubejs:heart_of_the_cards", ["You've activated my Trap Card!", "Right click to toggle invisibility."]],
+        ["kubejs:heart_of_the_flame", ["Burns for over three real-time years."]],
         ["kubejs:heart_of_the_void", ["Effectively a black hole.", "Right click bedrock to open the void.", "Takes some time to cooldown."]],
         ["kubejs:heart_of_the_air", ["A relic holding the air of times long past."]],
         ["kubejs:heart_of_the_jungle", ["It belongs in a museum."]],
         ["kubejs:heart_of_the_frost", ["The cold never bothered me anyway."]],
-        ["farmersdelight:skillet", ["Also known as a Frying Pan."]]
+        ["farmersdelight:skillet", ["Also known as a Frying Pan."]],
+        ["ends_delight:end_stone_knife", ["Too energetic for a Tetra Workbench."]],
+        ["ends_delight:purpur_knife", ["Too energetic for a Tetra Workbench."]],
+        ["ends_delight:dragon_egg_shell_knife", ["Too energetic for a Tetra Workbench."]],
+        ["ends_delight:dragon_tooth_knife", ["Too energetic for a Tetra Workbench."]],
+        ["vintagedelight:magic_vine", ["Too magical for stripping with Tetra tools."]],
+        ["aquaculturedelight:neptunium_knife", ["Too energetic for a Tetra Workbench."]]
     ]) {
         e.addAdvanced(lore[0], ((lore) => (item, advanced, text) => {
             for (let i = 0; i < lore[1].length; i++) {

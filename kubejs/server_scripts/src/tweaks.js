@@ -48,6 +48,10 @@ let random = [
     "farmersdelight:milk_bottle",
     "supplementaries:flax",
     "supplementaries:flax_seeds",
+    "mynethersdelight:slices_of_bread",
+    "mynethersdelight:toasts",
+    "mynethersdelight:bread_loaf",
+    "mynethersdelight:ghast_sourdough"
 ]
 
 let random_recipe = [
@@ -63,7 +67,8 @@ let random_recipe = [
     "naturalist:cake",
     "farmersdelight:cake_from_milk_bottle",
     "create:crafting/curiosities/cake",
-    "refurbished_furniture:frying/cheese_toastie"
+    "refurbished_furniture:frying/cheese_toastie",
+    "mynethersdelight:cutting/ghast_dough"
 ]
 
 ServerEvents.recipes(e => {
@@ -81,6 +86,8 @@ ServerEvents.recipes(e => {
     e.replaceInput({}, "create:dough", "#forge:dough")
     e.replaceInput({}, "create:wheat_flour", "#forge:flour")
     //e.replaceInput({}, "minecraft:wheat", "#forge:flour")
+    
+    e.replaceInput({id: "mynethersdelight:crafting/golden_egg"}, "mynethersdelight:boiled_egg", "#forge:cooked_eggs")
 
     e.shapeless("minecraft:bread", [
         "minecraft:wheat",
@@ -272,7 +279,7 @@ ServerEvents.recipes(e => {
     })
 
     for (let cutting of [
-        ["minecraft:bread", "refurbished_furniture:bread_slice", 6],
+        ["minecraft:bread", "refurbished_furniture:bread_slice", 5],
         ["minecraft:feather", "minecraft:string", 1],
         ["minecraft:honeycomb_block", "minecraft:honeycomb", 4],
         ["minecraft:mangrove_roots", "minecraft:stick", 8],
@@ -304,6 +311,7 @@ ServerEvents.tags("item", e => {
     e.remove("supplementaries:ropes", "quark:rope", "farmersdelight:rope")
     for (let knife of bad_knives) e.remove("forge:tools/knives", knife)
     
+    e.remove("forge:bread", "mynethersdelight:slices_of_bread", "mynethersdelight:toasts")
     e.remove("forge:dough", "create:dough")
     e.add("forge:dough", "vintagedelight:oat_dough", "kubejs:rice_dough")
 
@@ -320,6 +328,7 @@ ServerEvents.tags("item", e => {
         "minecraft:grass", "minecraft:tall_grass",
         "minecraft:fern", "minecraft:large_fern"
     )
+    e.add("forge:tools/knives", "tetra:modular_sword")
 })
 
 ItemEvents.rightClicked("kubejs:heart_of_the_elements", e => {
@@ -337,6 +346,13 @@ ItemEvents.rightClicked("kubejs:heart_of_the_earth", e => {
 ItemEvents.rightClicked("kubejs:heart_of_the_sand", e => {
     if (!e.player) return;
     e.server.runCommandSilent("give " + e.player.name.getString() + " kubejs:sand_particle")
+})
+ItemEvents.rightClicked("kubejs:heart_of_the_cards", e => {
+    if (!e.player) return;
+    const result = e.server.runCommandSilent("effect clear " + e.player.name.getString() + " minecraft:invisibility");
+    if (result <= 0) {
+        e.server.runCommandSilent("effect give " + e.player.name.getString() + " minecraft:invisibility infinite 0 true")
+    }
 })
 let last_usage = 0;
 ItemEvents.rightClicked("kubejs:heart_of_the_void", e => {

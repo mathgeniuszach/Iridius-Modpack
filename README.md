@@ -44,6 +44,7 @@ Content mods (excluding Food Mods) add brand completely new content to the game.
 - **[Cosmetic Armors](https://modrinth.com/mod/cosmeticarmours)** - Adds extra cosmetic armors.
 - **[Create](https://modrinth.com/mod/create)** - A steampunky-style tech mod.
 - **[Critter Armory](https://modrinth.com/mod/critter-armory)** - Adds the ability to put player armor on critters.
+- **[Ensorcellation](https://modrinth.com/mod/ensorcellation)** - Some more enchants.
 - **[Exposure](https://modrinth.com/mod/exposure)** - Adds photography to Minecraft, with film development.
 - **[Immersive Melodies](https://modrinth.com/mod/immersive-melodies)** - Adds musical instruments that can preset songs and ABC files!
 - **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
@@ -51,6 +52,9 @@ Content mods (excluding Food Mods) add brand completely new content to the game.
 - **[Quark](https://modrinth.com/mod/quark)** - Many, many large and small changes. Enabled on a per-feature basis.
 - **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
 - **[Supplementaries](https://modrinth.com/mod/supplementaries)** - Small vanila-like features. Enabled on a per-feature basis.
+- **[Tetra](https://modrinth.com/mod/tetra)** - Custom tool/weapon editing for the ultimate blacksmith.
+    - **[Tetra Extras](https://modrinth.com/mod/tetra-extras)** - Custom tool editing compat.
+    - **[Tetracelium](https://modrinth.com/mod/tetracelium)** - Custom tool editing compat.
 - **[Table Top Craft](https://modrinth.com/mod/table-top-craft)** - Adds some common board games to Minecraft.
 -   <details>
     <summary><b>YUNG's Structure Mods</b> - Enhancements for older minecraft structures.</summary>
@@ -77,6 +81,7 @@ Food mods add yummy food to the game.
     - **[Aquaculture Delight](https://modrinth.com/mod/aquaculture-delight)** - Farmer's Delight Aquaculture compat.
     - **[Farmer's Delight Compat](https://modrinth.com/mod/farmers-delight-compat)** - Tweaks various mods to make them compatible with Farmer's Delight.
     - **[End's Delight](https://modrinth.com/mod/ends-delight)** - End food mod.
+    - **[My Nether's Delight](https://modrinth.com/mod/my-nethers-delight)** - Nether food mod.
     - **[Ocean's Delight](https://modrinth.com/mod/oceans-delight)** - Ocean food mod.
     - **[Vintage Delight](https://modrinth.com/mod/vintage-delight)** - Pickles and cheese!
 - **[Neapolitan](https://modrinth.com/mod/neapolitan)** - I scream for ice cream.
@@ -95,7 +100,6 @@ These mods add functionality to the UI of the maingame, making it so you don't h
     - **[EMI Enchants](https://modrinth.com/mod/emienchants)** - Adds enchanting rarity and applications to EMI.
     - **[EMIffect](https://modrinth.com/mod/emiffect)** - Adds effect descriptions and sources to EMI.
     </details>
-- **[Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions)** - Shows short descriptions of enchantments under enchanting books.
 - **[Food Effect Tooltips](https://modrinth.com/mod/food-effect-tooltips-forge)** - Shows all the effects food will give you when eaten.
 - **[Inspecio](https://modrinth.com/mod/inspecio)** 📜 - Shows more things in tooltips.
 - **[Jade](https://modrinth.com/mod/jade)** - Shows a tooltip of the block you're looking at.
@@ -153,7 +157,6 @@ This is for useful mods you don't really need to know much about, because they e
 - **[Chat Patches](https://modrinth.com/mod/chatpatches)** 📜 - Adds longer chat history and fixes for chat.
 - **[Chunky](https://modrinth.com/plugin/chunky)** - Enables pre-generation of world chunks.
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps up XP orbs to reduce lag.
-- **[Create: Compatible Storage](https://modrinth.com/mod/create-compatible-storage)** - Fixes some weird create compatibility issues.
 - **[Discord Integration](https://modrinth.com/plugin/dcintegration)** - Links up a Discord channel to the game chat.
 - **[Double Slabs](https://modrinth.com/mod/double-slabs)** - Allows mixing double slabs and placing vertical slabs.
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Slows your game down from rendering when not in focus.

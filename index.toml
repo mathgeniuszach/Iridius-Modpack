@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "b9f66533da19c64e334f461215bcc2e9d610bf34bd83e95e8129fb25f6da2750"
+hash = "6006f63515a72527b3ed84a39ab872796fa2562f2f78ffc969dd445fe0b3793c"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -98,7 +98,7 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "222ac9f7dc1d2d77240d5d27b0e0257c3910c47d155bd9f4c19b758cad579942"
+hash = "13e3f53d447f62a490d704c9d17da369d9083e23b85b553fdfdc67742ed399e2"
 
 [[files]]
 file = "config/toadlib_config.toadcfg"
@@ -110,7 +110,7 @@ hash = "2724ceb43b999afaf5f91e23c38503624d663e1ad5d832aa78a5385bb9898bd7"
 
 [[files]]
 file = "config/watut-client.toml"
-hash = "81281554ea8bca10c1af77f837c3cec568d14bf54623b90d029fcd4f112f1740"
+hash = "2d7b91377f9b1680767e9d37c6f8bf44a7e5cc954892e490e9a75e8bc23b49ff"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -118,7 +118,7 @@ hash = "9c366307cc79a15e4ed349c407fcce1615b8db10f4581d27bfc0d6799449b520"
 
 [[files]]
 file = "emi.json"
-hash = "01822722319b15e8d8a3dc7c3549ff04f7aa67b4154d5af57186c852768be14a"
+hash = "2222d8bd2790e7d563d0cb91a799501df7d67186ac6f1d9e4399bc7ae92255f9"
 
 [[files]]
 file = "icon.png"
@@ -226,7 +226,7 @@ hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/client_scripts/src/tweaks.js"
-hash = "7224d428ba63bcd312c40c686040eaeb7886f973d9bb71b91f0026ea56f10baf"
+hash = "f78e6c9f2da835cebc8b54a07f009303310fbae1a613e3edb6dd5919e9993953"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -239,6 +239,10 @@ hash = "ae894b02e6bfdf4c393e80ca5fe502a0ca61c97f4a6ac11c56a723265a1ab60d"
 [[files]]
 file = "kubejs/config/probe-settings.json"
 hash = "9140168697e133a7382b8410ffd90eeefd0b111955d37c6a1ca30834e6947c3d"
+
+[[files]]
+file = "kubejs/data/cosmeticarmoursmod/loot_tables/grant_book_on_first_join.json"
+hash = "c86308ea60eed637ee42113f8962027e9b97c5c5a52f7b33e94fe6a620c99e4a"
 
 [[files]]
 file = "kubejs/data/create/recipes/compacting/chocolate.json"
@@ -285,12 +289,16 @@ file = "kubejs/data/neapolitan/recipes/strawberry/strawberry_scones.json"
 hash = "a4adbc72ff2e765c859d8f4b3356782a689f033c11ad5d9f3df51138f3055df8"
 
 [[files]]
+file = "kubejs/data/supplementaries/curios/entities/player.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "kubejs/server_scripts/jsconfig.json"
 hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/tweaks.js"
-hash = "08385c9dba1915c7635b7476d0cf32f12df768723890a5adf699d7625b6d04cd"
+hash = "f569a3559d332bd69d2ef6a1bda446a7ad08a890a2004d16ab9063229b36b2aa"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -304,10 +312,6 @@ hash = "9ec8d3323fba1083aa5bc81b5f3b8b518ebc4a37f34379137fae8de684ae9494"
 file = "mods/3dskinlayers.pw.toml"
 hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
 metafile = true
-
-[[files]]
-file = "mods/CosmeticArmours - 1.5.3.0 - 1.20.1 - Forge.jar"
-hash = "37605c0cdc32c3448d51b62b34fc5ce0ae19f6bf80a2046c40e8755273822802"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -425,6 +429,11 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
@@ -437,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticarmours.pw.toml"
+hash = "de24e5829a9237014a05d13fd0868f4e5dfb5ff7d2b86c11d2dc96529adf5d00"
 metafile = true
 
 [[files]]
@@ -519,13 +533,13 @@ hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "473489bb165ab775858cc475d8e9ae599e126bced1c73d17563e3459e4899719"
+file = "mods/ends-delight.pw.toml"
+hash = "c3d1438d25bdf4a3b993b832f220370635969c7d964df0b3e389e126d24e48f1"
 metafile = true
 
 [[files]]
-file = "mods/ends-delight.pw.toml"
-hash = "c3d1438d25bdf4a3b993b832f220370635969c7d964df0b3e389e126d24e48f1"
+file = "mods/ensorcellation.pw.toml"
+hash = "6047057f4da3267df6cfb7fcf09ac599b66862282eeab24915fe49aa80ec0ec9"
 metafile = true
 
 [[files]]
@@ -635,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/individual-keep-inventory.pw.toml"
-hash = "2b92db3cc918eda28b5bf6f77c9d5b73e4deb7c24c77fe9d30a3116959453ee7"
+hash = "76515b75c76b9ee37e0af2cba2ddc94e32b0e6eb8f4fddb0f7c71d99fe72c59c"
 metafile = true
 
 [[files]]
@@ -731,6 +745,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "d60f6a6d46b66a76a6e3d185177a20cba42b83ba37f34db0fbe3c9babab7c837"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "019b1fc9ddc90219203532bf68538e1f1b2487599c6c9b9a3a074df0abd66b48"
 metafile = true
 
 [[files]]
@@ -884,6 +908,21 @@ hash = "d8a0355cf4da9ce96dadbec3fa67a0ffa81132c72c3184f03b6bd30cb2669e08"
 metafile = true
 
 [[files]]
+file = "mods/tetra-extras.pw.toml"
+hash = "024f6280e7d8bad9de70cd5f03ff8ff4be112d0171dd4979c2ac52f7a9cabcb2"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "c7c0bf52ed0a44e8e71403a92da8503e298dc961c57671ae933f707ec807004d"
+metafile = true
+
+[[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "1f9ed7d78a4e7263a46a7ff5095394e3932d526e71ba8bdf1cd64c6f3b2594d1"
+metafile = true
+
+[[files]]
 file = "mods/toadlib.pw.toml"
 hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
 metafile = true
@@ -990,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1e6e51e250670106a764a8779d63b75490478da605a199dd8535f673bf9f65b4"
+hash = "ff7415258cf1ae4659d75ba7109bf9114c590411246bc4f55cf2a32eaceec90a"
 
 [[files]]
 file = "resourcepacks/Curated Vanilla Tweaks.zip"
