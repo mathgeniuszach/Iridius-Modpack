@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "6006f63515a72527b3ed84a39ab872796fa2562f2f78ffc969dd445fe0b3793c"
+hash = "a5a8a1589cda120cd1c5c772b679de62f999e7bb5ea871f065fc036cab9a0037"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -118,11 +118,15 @@ hash = "9c366307cc79a15e4ed349c407fcce1615b8db10f4581d27bfc0d6799449b520"
 
 [[files]]
 file = "emi.json"
-hash = "2222d8bd2790e7d563d0cb91a799501df7d67186ac6f1d9e4399bc7ae92255f9"
+hash = "67cf8dc33d0af26bce2f6709795c2e780a9379c15ea5b572758c000a4ae809bb"
 
 [[files]]
 file = "icon.png"
 hash = "1609e6854da594779f1d9f5e201bc78fb30635366f01c40cc5704c8250579fc7"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/cosmeticarmoursmod/lang/en_us.json"
@@ -130,7 +134,7 @@ hash = "75783cfda2f1adbb5b130a8495dc3bf962bcc83db00f4449669eb19dec02a736"
 
 [[files]]
 file = "kubejs/assets/emi/index/stacks/tweaks.json"
-hash = "61dd7b02c24de156d293a6101145abb6cc36b62421cfff7763d628cf9f2a1e39"
+hash = "7ada5e979b8f99261a6e2ee2d573e9a636b6cad7caccff156bc77e2efd2ef2c0"
 
 [[files]]
 file = "kubejs/assets/farmersdelight/lang/en_us.json"
@@ -213,6 +217,10 @@ file = "kubejs/assets/minecraft/lang/en_us.json"
 hash = "ae160c233c2577c81139ea8e05b4882c60861b22099dbe4c1de00dabbd6295d9"
 
 [[files]]
+file = "kubejs/assets/mynethersdelight/lang/en_us.json"
+hash = "d456580779a5e3a5f95054fd179268c68965e824b78b4d990a9f79b80620157a"
+
+[[files]]
 file = "kubejs/assets/quark/lang/en_us.json"
 hash = "5d05d6c02124bdfb454f0eee7616049b318cef6ece3e872ae1994399cb1f9b35"
 
@@ -226,7 +234,7 @@ hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/client_scripts/src/tweaks.js"
-hash = "f78e6c9f2da835cebc8b54a07f009303310fbae1a613e3edb6dd5919e9993953"
+hash = "404127d99ca5a8c143e2ea08460bdcac7eadc725a8e67a39c025401dab208231"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -298,7 +306,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/tweaks.js"
-hash = "f569a3559d332bd69d2ef6a1bda446a7ad08a890a2004d16ab9063229b36b2aa"
+hash = "8a3f4353705d034fae7ad1b641eeb35cd05918059f6f75700b4764372928aa1e"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
