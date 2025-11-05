@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "a5a8a1589cda120cd1c5c772b679de62f999e7bb5ea871f065fc036cab9a0037"
+hash = "9da7303e4aaf9eac0d3287471fd2f994b51c405ba4fa19513ccaffde2b104613"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
