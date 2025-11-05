@@ -1,6 +1,6 @@
 # Iridius Modpack
 
-A modpack for the Iridius server.
+A beginner-friendly modpack with room for much growth.
 
 ## Mod List
 
