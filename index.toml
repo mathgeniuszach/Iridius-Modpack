@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.txt"
+hash = "7e7170e3cebf88a9f60c7b8421418323c09304da1af4d5e90f4da1dc1c8a2661"
+
+[[files]]
 file = "README.md"
-hash = "9da7303e4aaf9eac0d3287471fd2f994b51c405ba4fa19513ccaffde2b104613"
+hash = "92adcd1653dab419ea22ad5b5b7eb2088e7ddb00dbfbba416f226ace171b32e0"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -387,11 +391,6 @@ hash = "e3e6c5e339f0fa8c6baef2634542e347708843d4cb7e127292155493914b3384"
 metafile = true
 
 [[files]]
-file = "mods/blocktuner-forge.pw.toml"
-hash = "484265938448400b536e2afd73275069b269e764a73950bd156cd805f131ddd8"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
 metafile = true
@@ -489,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/doubleslabs-forge-1.20.1-0.1.2.jar"
 hash = "34d66680bf90ff5934562bcf8481a564e2d0d40fc30f59a29c003364999ce217"
+
+[[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "c4792b41efa4b192e7ef9687bd468c0892573a91b2600ecf14ed152d4807aeb0"
+metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -627,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
@@ -896,6 +900,11 @@ hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
 metafile = true
 
 [[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "b1dd6ac8ea2df432d01c0c2f93634f96d5e7b15439c41f0d8b050bca8714bace"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
@@ -903,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "e079fd37c41a102621a9d3ee5b8cdbc332fd28ec007a28a019d30b35d3829b41"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "f30b7c49b72607c07fc8b3a06355d03ffdbb0b9d6d2e9bccbf994b8299cc8f5f"
 metafile = true
 
 [[files]]

@@ -31,6 +31,7 @@ Other simple mods you should know about just for the functionality.
 - **[Geophilic](https://modrinth.com/datapack/geophilic)** - A biome overhaul mod that uses vanilla blocks, without adding new biomes.
 - **[Personality](https://modrinth.com/mod/personality!)** - Adds sitting and crawling functionality.
 - **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** - Proximity chat for Minecraft.
+- **[Skin Shuffle](https://modrinth.com/mod/skinshuffle)** - Adds the ability to quickly switch your skin ingame.
 - **[What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)** - Shows what people are doing in their GUI screens.
 - **[The Immersive Music Mod](https://modrinth.com/mod/immersivemusicmod)** - Adds over 100 new biome-specific songs to the game!
 - **[Xaero's Minimap (Fair-Play)](https://modrinth.com/mod/xaeros-minimap-fair)** - Adds a minimap.
@@ -159,6 +160,7 @@ This is for useful mods you don't really need to know much about, because they e
 - **[Clumps](https://modrinth.com/mod/clumps)** - Clumps up XP orbs to reduce lag.
 - **[Discord Integration](https://modrinth.com/plugin/dcintegration)** - Links up a Discord channel to the game chat.
 - **[Double Slabs](https://modrinth.com/mod/double-slabs)** - Allows mixing double slabs and placing vertical slabs.
+- **[Styled Nicknames](https://modrinth.com/mod/styled-nicknames)** - Adds /nick for custom player names.
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Slows your game down from rendering when not in focus.
 - **[Embeddium](https://modrinth.com/mod/embeddium)** - All-in-one performance mod, forked from Sodium.
     - **[Rubidium Extra](https://modrinth.com/mod/rubidium-extra)** - Adds some extra settings to Embeddium.
