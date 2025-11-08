@@ -6,7 +6,7 @@ hash = "7e7170e3cebf88a9f60c7b8421418323c09304da1af4d5e90f4da1dc1c8a2661"
 
 [[files]]
 file = "README.md"
-hash = "92adcd1653dab419ea22ad5b5b7eb2088e7ddb00dbfbba416f226ace171b32e0"
+hash = "961c9f29414f44ae12c48eea594a747fb0041c5b0519cd09fa9e53a50232545d"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ff7415258cf1ae4659d75ba7109bf9114c590411246bc4f55cf2a32eaceec90a"
+hash = "caccfc25307ddafa17c0cd0b155b904a889d7ac6f8dbf5f06f9bf315c99e6217"
 
 [[files]]
 file = "resourcepacks/Curated Vanilla Tweaks.zip"
