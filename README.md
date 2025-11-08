@@ -123,7 +123,6 @@ If you're new to the game, you won't even know they're not in vanilla.
 - **[Better Advancements](https://modrinth.com/mod/better-advancements)** - Makes the advancements screen slightly larger.
 - **[Better Brightness Slider](https://modrinth.com/mod/better-brightness-slider)** - Uncaps the brightness slider.
 - **[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)** - Shows HUD elements while riding a mount.
-- **[Block Tuner](https://modrinth.com/mod/blocktuner-forge)** - Adds a GUI for tuning note blocks.
 - **[CutThrough](https://modrinth.com/mod/cut-through)** - Makes sword attacks go through transparent blocks.
 - **[Ding](https://modrinth.com/mod/ding)** - Plays a sound when the game is finished booting up.
 - **[Easy Anvils](https://modrinth.com/mod/easy-anvils)** - Makes anvils function more sensibly.
