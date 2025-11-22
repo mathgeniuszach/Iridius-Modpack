@@ -71,6 +71,27 @@ let random_recipe = [
     "mynethersdelight:cutting/ghast_dough"
 ]
 
+let bad_enchants = [
+    "ensorcellation:cavalier",
+    "ensorcellation:damage_ender",
+    "ensorcellation:damage_villager",
+    "ensorcellation:displacement",
+    "ensorcellation:fire_rebuke",
+    "ensorcellation:frost_rebuke",
+    "ensorcellation:gourmand",
+    "ensorcellation:instigating",
+    "ensorcellation:magic_edge",
+    "ensorcellation:pilfering"
+]
+
+let op_loot_tables = [
+    "apotheosis:chests/chest_valuable",
+    "apotheosis:chests/spawner_brutal",
+    "apotheosis:chests/spawner_brutal_rotate",
+    "apotheosis:chests/spawner_swarm",
+    "apotheosis:chests/tome_tower"
+]
+
 ServerEvents.recipes(e => {
     for (let knife of bad_knives) e.remove({output: knife})
     for (let dough of doughs) e.remove({output: dough})
@@ -190,10 +211,10 @@ ServerEvents.recipes(e => {
     ]) {
         e.shapeless(fdough[1], [
             "minecraft:water_bucket",
-            fdough[0], fdough[0],
+            fdough[0],
             "vintagedelight:salt_dust"
         ]).keepIngredient("minecraft:water_bucket")
-        e.shapeless(fdough[1], [
+        e.shapeless(Item.of(fdough[1]).withCount(2), [
             "minecraft:egg",
             fdough[0],
             "vintagedelight:salt_dust"
@@ -278,6 +299,40 @@ ServerEvents.recipes(e => {
         "P": "kubejs:chunk_of_the_earth"
     })
 
+    for (let [juice, item, shape] of [
+        ["kubejs:apple_juice", "minecraft:apple", "IISB"],
+        ["kubejs:sweet_berry_juice", "minecraft:sweet_berries", "IISB"],
+        ["kubejs:glow_berry_juice", "minecraft:glow_berries", "IISB"],
+        ["kubejs:golden_apple_juice", "minecraft:golden_apple", "IISB"],
+        ["kubejs:enchanted_golden_apple_juice", "minecraft:enchanted_golden_apple", "ISB"],
+    ]) {
+        let items = []
+        for (let letter of shape) {
+            switch (letter) {
+                case "I": items.push(item); continue
+                case "S": items.push("minecraft:sugar"); continue
+                case "B": items.push("minecraft:glass_bottle"); continue
+            }
+        }
+        e.shapeless(juice, items)
+    }
+    e.shapeless("kubejs:pumpkin_juice", [
+        "farmersdelight:apple_cider",
+        "farmersdelight:pumpkin_slice",
+        "minecraft:glass_bottle",
+        "farmersdelight:pumpkin_slice",
+        "farmersdelight:pumpkin_slice",
+        "minecraft:sugar"
+    ])
+    e.shapeless("kubejs:fruit_punch", [
+        "kubejs:apple_juice",
+        "kubejs:sweet_berry_juice",
+        "minecraft:glass_bottle",
+        "kubejs:glow_berry_juice",
+        "farmersdelight:melon_juice"
+    ])
+
+
     e.remove({input: "vintagedelight:cucumber", type: "farmersdelight:cutting"})
     for (let cutting of [
         ["minecraft:bread", "refurbished_furniture:bread_slice", 5],
@@ -308,6 +363,23 @@ ServerEvents.recipes(e => {
 })
 
 ServerEvents.tags("item", e => {
+    e.remove("farmersdelight:drinks",
+        "abnormals_delight:cherry_cream_soda",
+        "abnormals_delight:passion_aloe_nectar",
+        "abnormals_delight:pickerelweed_juice",
+        "farmersdelight:milk_bottle"
+    )
+    e.add("farmersdelight:drinks",
+        "ends_delight:chorus_fruit_milk_tea",
+        "ends_delight:chorus_flower_tea",
+        "ends_delight:chorus_fruit_wine"
+    )
+    e.add("create:upright_on_belt",
+        "ends_delight:chorus_fruit_milk_tea",
+        "ends_delight:chorus_flower_tea",
+        "ends_delight:chorus_fruit_wine"
+    )
+
     e.remove("forge:milk", "farmersdelight:milk_bottle")
 
     e.remove("supplementaries:ropes", "quark:rope", "farmersdelight:rope")
@@ -381,11 +453,28 @@ LootJS.modifiers(e => {
         .replaceLoot("aquaculture:diamond_fillet_knife", "farmersdelight:diamond_knife")
         .replaceLoot("aquaculture:neptunium_fillet_knife", "aquaculturedelight:neptunium_knife")
     
+    let mod = e.addLootTableModifier(/apotheosis:chests\/.*/)
+    let items = [
+        "helmet", "chestplate", "leggings", "boots",
+        "shovel", "pickaxe", "axe", "hoe", "sword"
+    ]
+    for (let item in items) {
+        mod = mod
+            .replaceLoot("minecraft:diamond_"+item, "minecraft:iron_"+item)
+            .replaceLoot("minecraft:netherite_"+item, "minecraft:diamond_"+item)
+    }
+
+    mod = e.addLootTypeModifier(LootType.CHEST)
+    for (let enchant of bad_enchants) {
+        mod = mod
+            .removeLoot(ItemFilter.hasEnchantment(enchant))
+    }
+    
     e.addBlockLootModifier("minecraft:spawner")
         .addLoot(
             LootEntry.of("kubejs:spawner_fragment")
-                .applyBinomialDistributionBonus("minecraft:silk_touch", 0.7, 3)
-                .applyBinomialDistributionBonus("minecraft:fortune", 0.5, 1)
+//                .applyBinomialDistributionBonus("minecraft:silk_touch", 0.7, 3)
+                .applyBinomialDistributionBonus("minecraft:fortune", 0.3, 1)
         )
     
     e.addLootTableModifier(/.*/)

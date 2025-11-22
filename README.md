@@ -48,10 +48,19 @@ Content mods (excluding Food Mods) add brand completely new content to the game.
 - **[Ensorcellation](https://modrinth.com/mod/ensorcellation)** - Some more enchants.
 - **[Exposure](https://modrinth.com/mod/exposure)** - Adds photography to Minecraft, with film development.
 - **[Immersive Melodies](https://modrinth.com/mod/immersive-melodies)** - Adds musical instruments that can preset songs and ABC files!
+-   <details>
+    <summary><b>Macow's Decor</b> - More decorational blocks.</summary>
+
+    - **[Macow's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)** - Adds more decorational lighting blocks.
+    - **[Macow's Doors](https://modrinth.com/mod/macaws-doors)** - Adds more decorational doors.
+    - **[Macow's Windows](https://modrinth.com/mod/macaws-windows)** - Adds curtains, blinds, and more windows.
+
+    </details>
 - **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
 - **[Naturalist](https://modrinth.com/mod/naturalist)** - Adds 24 new animals with an ecological structure and food chain.
 - **[Quark](https://modrinth.com/mod/quark)** - Many, many large and small changes. Enabled on a per-feature basis.
 - **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
+- **[Simple Shops](https://modrinth.com/mod/simpleshops)** - Simple player shops for allowing for offline trading.
 - **[Supplementaries](https://modrinth.com/mod/supplementaries)** - Small vanila-like features. Enabled on a per-feature basis.
 - **[Tetra](https://modrinth.com/mod/tetra)** - Custom tool/weapon editing for the ultimate blacksmith.
     - **[Tetra Extras](https://modrinth.com/mod/tetra-extras)** - Custom tool editing compat.
@@ -82,6 +91,7 @@ Food mods add yummy food to the game.
     - **[Aquaculture Delight](https://modrinth.com/mod/aquaculture-delight)** - Farmer's Delight Aquaculture compat.
     - **[Farmer's Delight Compat](https://modrinth.com/mod/farmers-delight-compat)** - Tweaks various mods to make them compatible with Farmer's Delight.
     - **[End's Delight](https://modrinth.com/mod/ends-delight)** - End food mod.
+    - **[Miner's Delight](https://modrinth.com/mod/miners-delight)** - Undeground food mod.
     - **[My Nether's Delight](https://modrinth.com/mod/my-nethers-delight)** - Nether food mod.
     - **[Ocean's Delight](https://modrinth.com/mod/oceans-delight)** - Ocean food mod.
     - **[Vintage Delight](https://modrinth.com/mod/vintage-delight)** - Pickles and cheese!
@@ -129,6 +139,7 @@ If you're new to the game, you won't even know they're not in vanilla.
 - **[Gallery](https://modrinth.com/mod/gallery)** - Makes paintings have unique icons, and enables painting selectors.
 - **[GraveStone Mod](https://modrinth.com/mod/gravestone-mod)** - For those of us with KeepInventory off, prevents items from despawning.
 - **[Lamb Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)** - Makes entities that really should display light, actually display light.
+- **[Light Overlay](https://modrinth.com/mod/light-overlay)** - Adds an overlay to F7 showing where mobs can spawn.
 - **[Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone)** - Fast leaf decay.
 - **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)** - Makes mouse dragging to move items around much simpler.
 - **[Oculus](https://modrinth.com/mod/oculus)** - For shaders, which enables more powerful PCs to render the game beautifully.
@@ -160,6 +171,7 @@ This is for useful mods you don't really need to know much about, because they e
 - **[Discord Integration](https://modrinth.com/plugin/dcintegration)** - Links up a Discord channel to the game chat.
 - **[Double Slabs](https://modrinth.com/mod/double-slabs)** - Allows mixing double slabs and placing vertical slabs.
 - **[Styled Nicknames](https://modrinth.com/mod/styled-nicknames)** - Adds /nick for custom player names.
+- **[Default Options](https://modrinth.com/mod/default-options)** - Sets default options that do not get reset on modpack updates.
 - **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)** - Slows your game down from rendering when not in focus.
 - **[Embeddium](https://modrinth.com/mod/embeddium)** - All-in-one performance mod, forked from Sodium.
     - **[Rubidium Extra](https://modrinth.com/mod/rubidium-extra)** - Adds some extra settings to Embeddium.
@@ -171,7 +183,6 @@ This is for useful mods you don't really need to know much about, because they e
 - **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Rendering efficiency improvements.
 - **[Individual Keep Inventory](https://modrinth.com/mod/individual-keep-inventory)** - Allows turning on KeepInventory on a per-player basis.
 - **[KeybindHider](https://modrinth.com/mod/keybindhider)** - Hides keybinds from the controls menu so you're not overwhelmed.
-- **[Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)** ♨️ - Improves Minecraft netcode (so your internet go zoom).
 - **[KubeJS](https://modrinth.com/mod/kubejs)** - Content and recipe tweaker for minecraft.
     - **[MoreJS](https://modrinth.com/mod/morejs)** - Adds some extra functionality to KubeJS.
     - **[LootJS](https://modrinth.com/mod/lootjs)** - Adds loot functionality to KubeJS.
@@ -189,6 +200,5 @@ This is for useful mods you don't really need to know much about, because they e
 - **[Particle Core](https://modrinth.com/mod/particle-core)** - Optimizes particle rendering
 - **[Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides)** - Allows for hiding internal resource packs from the menu.
 - **[Spark](https://modrinth.com/mod/spark)** - Used for profiling the game to find performance bottlenecks.
-- **[Styled Chat](https://modrinth.com/mod/styled-chat)** 📜 - Adds formatting, color, and markdown support to the chat.
 
 </details>

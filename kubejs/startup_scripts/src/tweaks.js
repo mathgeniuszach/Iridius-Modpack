@@ -13,6 +13,75 @@ StartupEvents.registry("item", e => {
         .displayName("Rice Dough")
         .texture("kubejs:item/rice_dough")
         .food(food => food.hunger(2).saturation(0.5))
+    
+    function makeDrink(item, name, texture, f, using) {
+        let drink = e.create(item)
+        drink
+            .displayName(name)
+            .texture(texture)
+            .maxStackSize(16)
+            .containerItem("minecraft:glass_bottle")
+            .tag("farmersdelight:drinks")
+            .tag("create:upright_on_belt")
+            .useAnimation('drink')
+            .use((level, player, hand) => true)
+            .useDuration(itemstack => 32)
+            .finishUsing((itemstack, level, entity) => {
+                if (using) using(itemstack, level, entity)
+                if (itemstack.count <= 1) {
+                    return Item.of("minecraft:glass_bottle")
+                } else {
+                    itemstack.shrink(1)
+                    entity.runCommandSilent("give @s minecraft:glass_bottle")
+                }
+                return itemstack
+            })
+        if (f) f(drink)
+    }
+    makeDrink("apple_juice", "Apple Juice", "expandeddelight:item/apple_juice", null,
+        (_1, _2, entity) => {
+            entity.removeEffect("minecraft:poison")
+            entity.removeEffect("minecraft:wither")
+        }
+    )
+    makeDrink("sweet_berry_juice", "Sweet Berry Juice", "expandeddelight:item/sweet_berry_juice",
+        e => e.food(b => b.effect("minecraft:speed", 30*20, 0, 1)),
+        (_1, _2, entity) => entity.runCommandSilent("effect give @s minecraft:speed 30 0")
+    )
+    makeDrink("glow_berry_juice", "Glow Berry Juice", "expandeddelight:item/glow_berry_juice",
+        e => e.food(b => b.effect("minecraft:glowing", 30*20, 0, 1)),
+        (_1, _2, entity) => entity.runCommandSilent("effect give @s minecraft:glowing 30 0")
+    )
+    makeDrink("golden_apple_juice", "Golden Apple Juice", "expandeddelight:item/golden_apple_juice",
+        e => e.food(b => b.effect("minecraft:regeneration", 60*20, 0, 1)),
+        (_1, _2, entity) => entity.runCommandSilent("effect give @s minecraft:regeneration 60 0")
+    )
+    makeDrink("enchanted_golden_apple_juice", "Enchanted Golden Apple Juice", "expandeddelight:item/enchanted_golden_apple_juice",
+        e => e.glow(true).food(b => {
+            b.effect("minecraft:regeneration", 90*20, 1, 1)
+            b.effect("minecraft:fire_resistance", 5*60*20, 0, 1)
+        }),
+        (_1, _2, entity) => {
+            entity.runCommandSilent("effect give @s minecraft:regeneration 90 1")
+            entity.runCommandSilent("effect give @s minecraft:fire_resistance 300 0")
+        }
+    )
+    makeDrink("pumpkin_juice", "Pumpkin Juice", "expandeddelight:item/pumpkin_juice",
+        e => e.food(b => b.effect("minecraft:health_boost", 60*20, 0, 1)),
+        (_1, _2, entity) => entity.runCommandSilent("effect give @s minecraft:health_boost 60 0")
+    )
+    makeDrink("fruit_punch", "Fruit Punch", "expandeddelight:item/fruit_punch",
+        e => e.food(b => {
+            b.effect("minecraft:speed", 30*20, 0, 1)
+            b.effect("minecraft:jump_boost", 30*20, 0, 1)
+            b.effect("minecraft:strength", 30*20, 0, 1)
+        }),
+        (_1, _2, entity) => {
+            entity.runCommandSilent("effect give @s minecraft:speed 30 0")
+            entity.runCommandSilent("effect give @s minecraft:jump_boost 30 0")
+            entity.runCommandSilent("effect give @s minecraft:strength 30 0")
+        }
+    )
 
     // e.create("banana_dough")
     //     .displayName("Banana Dough")

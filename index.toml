@@ -6,7 +6,7 @@ hash = "7e7170e3cebf88a9f60c7b8421418323c09304da1af4d5e90f4da1dc1c8a2661"
 
 [[files]]
 file = "README.md"
-hash = "961c9f29414f44ae12c48eea594a747fb0041c5b0519cd09fa9e53a50232545d"
+hash = "f0ec3ca5b80fd84e988f02a580aa5c17c385dcca8d66de007599675ad5f56759"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -22,7 +22,7 @@ hash = "11c57858d0f036e67d585af424e9c393bd17ae015206337c411ff7ba81413e42"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "6d2d9415411c67220a0e9f78528c9e2bf241e596df38003579ef1e92c9770471"
+hash = "c5a11a56dd87b2a3680b20eebdc003c18907d74ae255a3a46ee414223bb4c8c0"
 
 [[files]]
 file = "config/apotheosis/garden.cfg"
@@ -102,7 +102,7 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "13e3f53d447f62a490d704c9d17da369d9083e23b85b553fdfdc67742ed399e2"
+hash = "222ac9f7dc1d2d77240d5d27b0e0257c3910c47d155bd9f4c19b758cad579942"
 
 [[files]]
 file = "config/toadlib_config.toadcfg"
@@ -129,6 +129,18 @@ file = "icon.png"
 hash = "1609e6854da594779f1d9f5e201bc78fb30635366f01c40cc5704c8250579fc7"
 
 [[files]]
+file = "installer/make.sh"
+hash = "c546590173b48d814f73463dca1e4d44ed3f1976c3b7494eeef91307e384eff4"
+
+[[files]]
+file = "installer/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "installer/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -139,6 +151,298 @@ hash = "75783cfda2f1adbb5b130a8495dc3bf962bcc83db00f4449669eb19dec02a736"
 [[files]]
 file = "kubejs/assets/emi/index/stacks/tweaks.json"
 hash = "7ada5e979b8f99261a6e2ee2d573e9a636b6cad7caccff156bc77e2efd2ef2c0"
+
+[[files]]
+file = "kubejs/assets/ends_delight/lang/en_us.json"
+hash = "3d8eeff04fc6075dcc237170969c6af597d8828ba6fee12d85c57de5ecbe940e"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/apple_juice.png"
+hash = "707b97ee72d99883de912f7ef04fe64520d7067a88defc0d6547a442dbfb708a"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/asparagus.png"
+hash = "bcf77bb5491a0bc744e7f1436c86689f24ad7a0f27ff0498eb22486b16a17983"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/asparagus_and_bacon_cheesy.png"
+hash = "7cfcd0d198f4b24096b30e818b71100a1456254ff95d4eda681c0aef25aef79f"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/asparagus_mushroom_pasta.png"
+hash = "33d68e04ed70023855440b73b90d78a4683cbdd5f94b5a6e42ca58ccdc71ab44"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/asparagus_seeds.png"
+hash = "2eaf082497e8975b147f4fd82baeb484ac698b7f419991d8d0333249a73b91ee"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/asparagus_soup.png"
+hash = "51c5e306018eb927b710aa93d7aad2cedf37952b4c9295802ed54bc4c2deab59"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/asparagus_soup_creamy.png"
+hash = "1f44b4988248340152d23feb8001d636e65b1ac50d82ef1e6de1ad934712efc6"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/baked_sweet_potato.png"
+hash = "a3f1e8f105132595fac4ece088a3825079125b97cbecd40e263a912ea24d04f8"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/berry_sweet_roll.png"
+hash = "e88be732684f0ca46e29077a9a3d53ad65dd9384b72c10fdde1b73d35c0bb5c5"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cheese_sandwich.png"
+hash = "e588448a7c051a2b5e437656d79a1d88fbc09bda65e562ef32aa5c47eee3af9f"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cheese_slice.png"
+hash = "63655a021d8a4c277bb190d158b842cd3776e1e65fe0c46b2018966debe89a7f"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cheese_wheel.png"
+hash = "56a80c057b8e6b2649e2d5d6e8cadacc7f1ce157d507fd4d47e385eeb8bed832"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/chili_pepper.png"
+hash = "b0007a031c3080baf13de531bcfe1f162eb9a14709ca279bdfb0b063e5821de9"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/chili_pepper_seeds.png"
+hash = "0f920ebcbca5a5e4c8c66bf0a46af49d3b23871648091c322c6daa4e1484ca12"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/chocolate_cookie.png"
+hash = "53f3352643ff242984691e51911b85af8fcb2ac0e03448688b786a5750e582e3"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon.png"
+hash = "e888029a955980900e021e6d97eb639a9438d15da6a3f16a69392e42b89c6174"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon_apples.png"
+hash = "925154f4c44cea598fff4ab322e007c5d9e95b6370d9b5d63d705dc84be611bc"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon_boat.png"
+hash = "771a2463b281e897b45e76ff6e6dba7c3a9fcf7018f10b78128137a8549a8779"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon_chest_boat.png"
+hash = "b1dd6ddc38b1892c1d49c9cfcb7c4f87fc7547231213ab537cd7f729c6c90ad7"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon_door.png"
+hash = "2df7415ab086f2c69857decc9c24d7fac33732056224585d84b75f77ded88d13"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon_hanging_sign.png"
+hash = "483f60560f3cf7b264bacc66f3f3ac7f60ae705cec762f74ccfeb82d907a232b"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon_rice.png"
+hash = "c575f4708f3e4a7fb1baf6f762b5a6d294cdb0326f99e0cc61506321559f7223"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon_sign.png"
+hash = "f774cfbff4d70c027892effedccacfbcd4daeaa7205c9e6a8de50fd0c52facc4"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cinnamon_stick.png"
+hash = "e4d10b13a94819fd84196caf8311d0886cc51afb12a04654a6019537c973d594"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cranberries.png"
+hash = "0d6937d5d1571b1ac74472bd7b909531fdc9cef583a1c755ba1e12e797958cc2"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cranberry_chicken.png"
+hash = "7250d6a4c214ecf1b7e26994a0db825a82a92d07b21ca3ed891b9081453c3b1c"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cranberry_cobbler.png"
+hash = "6a076f17d0ad926371f38b277696aaa1bb7957e0ba1fd25329fa74dbd31057fa"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cranberry_cobbler_slice.png"
+hash = "cd6fbff5174f27a5d47b28fb7d0dbb4d0899ceb7542ba1b1cbf82010f5008a30"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cranberry_goat_cheese_toast.png"
+hash = "c83d6ce29e3c6ba6eea1acb7be6d728d335afd67ba31bdea111f320a884f5af6"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cranberry_jelly.png"
+hash = "2b8fa1dfc38cdc032d4f0d5051ebf7120f0ea8b407649b5c0dd1218860531c42"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/cranberry_juice.png"
+hash = "ed00a193452271b74fa3d47024c311da1c45074789bbdcd19193e6d138aa4ee0"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/crushing_mallet.png"
+hash = "7086d695b4093c115e57aed7fb7204fb6a31115d5ea67900ae5c4b740789a12b"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/empty_container_slot_bottle.png"
+hash = "ee81396a55b59b260967547b9645c3b5442f1edf9602c5af0eaf62e588843acd"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/enchanted_golden_apple_juice.png"
+hash = "62bbd752e0b123d1d05c634859c28379e10ab701eb445ac9c8d1e4b0fb1c63b7"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/fruit_punch.png"
+hash = "aaab857922eb437f96723ce148a583669573e69b607095890a1cded131d9b366"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/glass_bottle.png"
+hash = "6a09a39bb6c41bc92bd5eca1f51caf5b582a85f68206b164476c8e14a4669416"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/glass_jar.png"
+hash = "ae3fc74350911b7e07096064485d2b1bbb7f37875b014d8f420160e5b777d853"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/glow_berry_jelly.png"
+hash = "2e9096226afd312b6cde6fda734f5afbb12f71b8d648ced1a04c08dc8c8a2e37"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/glow_berry_jelly_sandwich.png"
+hash = "d2c2c1b9d25004953f301bd70623523e80088cb007395324afeab6ec69f01951"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/glow_berry_juice.png"
+hash = "dbac1b0f25f7d94ebb9972dd81b72f51cfae1a6978ead81d2c2847b1c0b4e936"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/glow_berry_sweet_roll.png"
+hash = "68cd091c3466f621ef31fbba97ab321cfd8bd08bbcf8847d3fc898f68d418535"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/goat_cheese_slice.png"
+hash = "8cbc12041e1ca86313ef4da5736aba38801b179c3c58ee5e66711ffdb5517a3c"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/goat_cheese_wheel.png"
+hash = "a0237189cee769a24f184870f6e1cc4d84b35d7384d9fe8c9db1f5118eb121dc"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/goat_milk_bottle.png"
+hash = "478ede30d82cb9357b230668a1577e1c5430adc0a3fff62077790817f7eebbbd"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/goat_milk_bucket.png"
+hash = "89598491c92669d44974fa5122b8020ef124ff17a8da7bdc8a616afbc9fe408c"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/golden_apple_juice.png"
+hash = "dc141fd5db2b6ed49611c4c6abf203ce4b44ea523f224d93867695552ba97813"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/grilled_cheese.png"
+hash = "bf04d76c1401bf2476c8c972cc3c026ecbcb425e36fcbc5074565cb69696ab7b"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/honeyed_goat_cheese_tart.png"
+hash = "f3c60654adde6e8079dbd3f90299880e9c09f7bea3fae2bc2eb449e8b3727b40"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/honeyed_goat_cheese_tart_slice.png"
+hash = "e678a4bd4be037452bb3226eed82a63d85c2024b11cf898b4c9df8441a1b0dbe"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/juicer.png"
+hash = "ce691706688eab284118cbb77b4871497c477572c2ac47ef711a17edcb972e0a"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/lemon.png"
+hash = "db647655fc90f7ab98be474f22b6d5278baac8b99240d7ac40d28827b4aad022"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/mac_and_cheese.png"
+hash = "76111c7d20bec0dc50551369b11072fad695444e2e036b8d79320b22954762da"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/peanut.png"
+hash = "375a69d9f3edfc72f7f458942fae860af4b2d0ad9d5727da2bc5270f41f46c5d"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/peanut_butter.png"
+hash = "b81c2035d8f936aefdb42ecd3b91d077216f6ef6bc76a0dd2bd5f19514c44834"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/peanut_butter_honey_sandwich.png"
+hash = "2a002505ee5db702e34126e8b40e272be4e309914311a78977fc4371088d0dc0"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/peanut_butter_sandwich.png"
+hash = "faf793b67d8a20a47af5d678eef9f72498120d9804580839f1d6709d419194bd"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/peanut_honey_soup.png"
+hash = "ef334e68bcdabf3c0023c4520c61f5ee23f2b68235e094ad5c6a1bc5ec924832"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/peanut_salad.png"
+hash = "b883c0df99b804f3e1a82c57244d61785e544c7d0b7cff8d4f01e6e0d07dcafc"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/peperonata.png"
+hash = "686d927d289dc845b3fcffcc33bc04b6afa23704447aea5b5318d716cf944f5e"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/pumpkin_juice.png"
+hash = "0d8ac13b9dd16ab2772b07893aee7b75de27402c13fdac6328ea4f6c7c5755de"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/salt.png"
+hash = "78fdd877351cc721bfd293841a46f6cfe539b2cf1e964c80175b9a01b37c37ae"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/salt_rock.png"
+hash = "b3be3637d0273364b423bc18cb650cbba86f8decb5c664dd7c5a3fad7d7a2883"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/snickerdoodle.png"
+hash = "e538d575b077e9f177d70e0c41b2496a320ce799846625a50ad5766792ecf65f"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sugar_cookie.png"
+hash = "e31f38a0490353bb7a2a5be8dfb31d85243a3ccb2e5bf9d767de83faa5b5af40"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sweet_berries.png"
+hash = "df3d2e43e671dd16d2b101e5e2273330e1bcae0bfe36cac5e8db68ce6ce7fc88"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sweet_berry_jelly.png"
+hash = "94e4c9e5f5ba60666d52b21fe8c808768768c1615ff240879191abe9af6c7453"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sweet_berry_jelly_sandwich.png"
+hash = "5396e73cf8933f026766bacc3294eb74ed5175e146ae1157d18429c0a7558cc3"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sweet_berry_juice.png"
+hash = "7cfede6952a794333672c718cef04cf1f528f5a43a680088bdb294f3dab106e0"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sweet_potato.png"
+hash = "f3579c649efa3e829c67dd7f65c4f1404009b655a655ae5dc08cc438f73d3ade"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sweet_potato_casserole.png"
+hash = "55aab06de4f25b4b9e32603f10732e0cf6a4d30cb828060097198681fb196152"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sweet_potato_salad.png"
+hash = "1b58cd5f6e55ea8f2223650338f1d71bc560d2dfddfac4a97c125a194375ebd9"
+
+[[files]]
+file = "kubejs/assets/expandeddelight/textures/item/sweet_roll.png"
+hash = "dbb01ddd9159804562568b16991c1d4b8ee968e8ae38e0a89f716cd24b3d4989"
 
 [[files]]
 file = "kubejs/assets/farmersdelight/lang/en_us.json"
@@ -238,7 +542,7 @@ hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/client_scripts/src/tweaks.js"
-hash = "404127d99ca5a8c143e2ea08460bdcac7eadc725a8e67a39c025401dab208231"
+hash = "6d22615eb97e81660b15b54c5be2bf0bb02bc2279c906c2040ecf6f03acae656"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -250,7 +554,27 @@ hash = "ae894b02e6bfdf4c393e80ca5fe502a0ca61c97f4a6ac11c56a723265a1ab60d"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "9140168697e133a7382b8410ffd90eeefd0b111955d37c6a1ca30834e6947c3d"
+hash = "103f102a28b9110c3b1e2d82660d38610c4a6a23f55823999f29bb11a4b276f9"
+
+[[files]]
+file = "kubejs/data/apotheosis/loot_tables/chests/chest_valuable.json"
+hash = "a99580bafd6c8c39225709acaefffc79438cc3ca52f1c45eadd903297ef1b7c8"
+
+[[files]]
+file = "kubejs/data/apotheosis/loot_tables/chests/spawner_brutal.json"
+hash = "36ae783b050caa9a7b311b69abe66082892cd69f756ca7aea2a47447e67cf997"
+
+[[files]]
+file = "kubejs/data/apotheosis/loot_tables/chests/spawner_brutal_rotate.json"
+hash = "dde91a51591609f16e067cc154b4520a8cfa9f1a6ee6ed450eea3cb1e0849dfe"
+
+[[files]]
+file = "kubejs/data/apotheosis/loot_tables/chests/spawner_swarm.json"
+hash = "a8eac6fc8712bb9126f3958052a7be5fae4e921b583f173d20f6547b5d8cd2f3"
+
+[[files]]
+file = "kubejs/data/apotheosis/loot_tables/chests/tome_tower.json"
+hash = "2e7c13e6484232d420d8c38ece586f379de1df0846adaaee35bd5313e66473c8"
 
 [[files]]
 file = "kubejs/data/cosmeticarmoursmod/loot_tables/grant_book_on_first_join.json"
@@ -310,7 +634,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/tweaks.js"
-hash = "22758e7a06d6d275b3fc3bcf30c733954a4a671c0a89781f72ede95a0cb0e079"
+hash = "b8e02f30077da29aaea8a91a2db87b126676a6ed7f30a01d52c530ea467ce483"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -318,7 +642,7 @@ hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
 file = "kubejs/startup_scripts/src/tweaks.js"
-hash = "9ec8d3323fba1083aa5bc81b5f3b8b518ebc4a37f34379137fae8de684ae9494"
+hash = "f10c35eac06d743ff476b3275aaba19c45c0be3e053e22702417921f14858cc8"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -378,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/armor-stands.pw.toml"
 hash = "7676e31a267e8b627cc73676f900b8a0e5f34c1c93f08bff783fbc556b8afcb2"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
 metafile = true
 
 [[files]]
@@ -478,6 +807,11 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "3497e48c52866fe536932d77fbb5cb1793d4e268e52873f1ca5c1e961b777814"
 metafile = true
 
 [[files]]
@@ -660,6 +994,11 @@ hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
 metafile = true
 
 [[files]]
+file = "mods/immersivemusicmod.pw.toml"
+hash = "3126417e02334590520bf9b80818a6f24d4eecaa9e645739bb50101c2af57bca"
+metafile = true
+
+[[files]]
 file = "mods/individual-keep-inventory.pw.toml"
 hash = "76515b75c76b9ee37e0af2cba2ddc94e32b0e6eb8f4fddb0f7c71d99fe72c59c"
 metafile = true
@@ -700,11 +1039,6 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
@@ -720,8 +1054,23 @@ hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "0b9e11096e44f7fe230e3578ddf5d898c0c29bbeeb00cc09026de6eae695b0c3"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "dac76b57fd114d37956011ad054aab6b5e86f1fd9e308da534bff0ca69a78989"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "e4f414ece2ec81f6dd2dfb8c0176670a576b988f60c8b45a1f4b749b4d008c9d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "8fb0ae9433533a1d24f9b738d6fa27f1d3091b10fd60fd9b0944b48901993c7e"
 metafile = true
 
 [[files]]
@@ -732,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
 metafile = true
 
 [[files]]
@@ -900,6 +1254,11 @@ hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
 metafile = true
 
 [[files]]
+file = "mods/simpleshops.pw.toml"
+hash = "9fbff7565eeecbda48cbddcdea5fd7a12cf72f72610e4d09e3f8679efb64d3ec"
+metafile = true
+
+[[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "b1dd6ac8ea2df432d01c0c2f93634f96d5e7b15439c41f0d8b050bca8714bace"
 metafile = true
@@ -907,11 +1266,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "e079fd37c41a102621a9d3ee5b8cdbc332fd28ec007a28a019d30b35d3829b41"
 metafile = true
 
 [[files]]

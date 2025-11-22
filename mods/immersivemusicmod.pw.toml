@@ -1,0 +1,13 @@
+name = "The Immersive Music Mod"
+filename = "1.0.6-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EgBj3Bnf/versions/ojNojLDi/1.0.6-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "e4beac8622c2eb42b08fd0848c06cd06f4403cd8f86f3b9c9f3b5da10cf5f03d7bf169c3267dfcde9c571196e04b1c0a1da13557812599f5e4c7087a24948180"
+
+[update]
+[update.modrinth]
+mod-id = "EgBj3Bnf"
+version = "ojNojLDi"

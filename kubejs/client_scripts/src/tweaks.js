@@ -20,7 +20,7 @@ ItemEvents.tooltip(e => {
         ["ends_delight:dragon_egg_shell_knife", ["Too energetic for a Tetra Workbench."]],
         ["ends_delight:dragon_tooth_knife", ["Too energetic for a Tetra Workbench."]],
         ["vintagedelight:magic_vine", ["Too magical for stripping with Tetra tools."]],
-        ["aquaculturedelight:neptunium_knife", ["Too energetic for a Tetra Workbench."]]
+        ["aquaculturedelight:neptunium_knife", ["Too energetic for a Tetra Workbench."]],
     ]) {
         e.addAdvanced(lore[0], ((lore) => (item, advanced, text) => {
             for (let i = 0; i < lore[1].length; i++) {
@@ -29,4 +29,20 @@ ItemEvents.tooltip(e => {
         })(lore))
     }
     
+    for (let lore of [
+        ["kubejs:apple_juice", ["Clears Poison and Wither"]],
+        ["farmersdelight:melon_juice", ["Minor Instant Health"]],
+        ["farmersdelight:hot_cocoa", ["Clears a Negative Effect"]],
+        ["neapolitan:milk_bottle", ["Clears an Effect"]],
+        ["miners_delight:milk_cup", ["Clears an Effect"]],
+        ["vintagedelight:nut_milk_bottle", ["Clears an Effect"]],
+        ["minecraft:milk_bucket", ["Clears all Effects"]],
+        ["ends_delight:chorus_fruit_wine", ["Clears Levitation"]],
+    ]) {
+        e.addAdvanced(lore[0], ((lore) => (item, advanced, text) => {
+            for (let i = 0; i < lore[1].length; i++) {
+                text.add(i+1, Text.of(lore[1][i]).blue())
+            }
+        })(lore))
+    }
 })
