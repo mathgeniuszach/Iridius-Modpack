@@ -13,7 +13,7 @@ StartupEvents.registry("item", e => {
         .displayName("Rice Dough")
         .texture("kubejs:item/rice_dough")
         .food(food => food.hunger(2).saturation(0.5))
-    
+
     function makeDrink(item, name, texture, f, using) {
         let drink = e.create(item)
         drink
@@ -87,7 +87,7 @@ StartupEvents.registry("item", e => {
     //     .displayName("Banana Dough")
     //     .texture("kubejs:item/banana_dough")
     //     .food(food => food.hunger(2).saturation(0.25))
-    
+
     // e.create("cake_batter")
     //     .displayName("Cake Batter")
     //     .texture("kubejs:item/cake_batter")
@@ -107,7 +107,7 @@ StartupEvents.registry("item", e => {
     e.create("sand_particle")
         .displayName("Sand Clump")
         .texture("kubejs:item/sand_particle")
-    
+
     e.create("heart_of_the_flame")
         .displayName("Heart of the Flame")
         .rarity("Uncommon")
@@ -155,4 +155,15 @@ StartupEvents.registry("item", e => {
         .displayName("Heart of the Elements")
         .rarity("Epic")
         .texture("kubejs:item/heart_of_the_elements")
+    e.create("stack_of_paper")
+        .displayName("Stack of Paper")
+        .texture("kubejs:item/stack_of_paper")
+        .burnTime(100)
+
+})
+
+ItemEvents.modification(e => {
+    e.modify("minecraft:paper", item => {
+        item.burnTime = 10
+    })
 })

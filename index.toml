@@ -1633,6 +1633,10 @@ file = "kubejs/assets/kubejs/textures/item/spawner_fragment.png"
 hash = "096432f8a8dc554a712f0fdb04872120f5727df38654d88b0a6d2b6a48fb7377"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/stack_of_paper.png"
+hash = "abdc09a47314dbc8b7227c94c1f4bfa27ac7eeb5c9157c21bae44007df7ae4e0"
+
+[[files]]
 file = "kubejs/assets/minecraft/lang/en_us.json"
 hash = "ae160c233c2577c81139ea8e05b4882c60861b22099dbe4c1de00dabbd6295d9"
 
@@ -1746,7 +1750,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/tweaks.js"
-hash = "9cd51db1c8bbd3add8dd2df50582f1cd0614f49eaddd74fbdae06119c85b2653"
+hash = "e6b712d58f05873b1fe0555b0af85516cf2c8b135b19dde68f63d0a6e436d6c1"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -1754,7 +1758,7 @@ hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
 file = "kubejs/startup_scripts/src/tweaks.js"
-hash = "f10c35eac06d743ff476b3275aaba19c45c0be3e053e22702417921f14858cc8"
+hash = "bc304154be61d7b650978d12c3260ec029781d1b3bd4a510fe2503c3a6c1ba4d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

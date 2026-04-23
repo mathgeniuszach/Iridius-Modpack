@@ -371,21 +371,29 @@ ServerEvents.recipes(e => {
         tool: {tag: "forge:tools/knives"}
     })
 
-    // Recipes for Card Decks
+    // Stack of Paper - 9 paper crafted together
+    e.shaped("kubejs:stack_of_paper", [
+        "PPP",
+        "PPP",
+        "PPP"
+    ], {
+        "P": "minecraft:paper"
+    })
+
     for (const [id, dye] of [
-        [0, "blue"],
-        [1, "red"],
-        [2, "black"],
-        [3, "pink"]
+        [0, "minecraft:blue_dye"],
+        [1, "minecraft:red_dye"],
+        [2, "minecraft:black_dye"],
+        [3, "minecraft:pink_dye"]
     ]) {
-        e.shaped(Item.of("playingcards:card_deck").withNBT({SkinID: id}), [
-            "PPP",
-            "PBP",
-            "PPP"
-        ], {
-            "P": "minecraft:paper",
-            "B": `minecraft:${dye}_dye`
-        })
+        e.shapeless(Item.of("playingcards:card_deck").withNBT({SkinID: id}), [
+            "kubejs:stack_of_paper",
+            "kubejs:stack_of_paper",
+            "minecraft:diamond",
+            "minecraft:red_dye",
+            "minecraft:black_dye",
+            dye
+        ])
     }
 })
 
