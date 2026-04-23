@@ -106,7 +106,7 @@ ServerEvents.recipes(e => {
     e.replaceInput({}, "create:dough", "#forge:dough")
     e.replaceInput({}, "create:wheat_flour", "#forge:flour")
     //e.replaceInput({}, "minecraft:wheat", "#forge:flour")
-    
+
     e.replaceInput({id: "mynethersdelight:crafting/golden_egg"}, "mynethersdelight:boiled_egg", "#forge:cooked_eggs")
 
     e.replaceInput({}, "minecraft:chest", "#forge:chests/wooden")
@@ -172,7 +172,7 @@ ServerEvents.recipes(e => {
             "F": cake[1]
         })
     }
-    
+
     e.shaped("refurbished_furniture:cheese_sandwich", [
         "B", "C", "B"
     ], {
@@ -230,7 +230,7 @@ ServerEvents.recipes(e => {
             "vintagedelight:salt_dust"
         ])
     }
-    
+
     e.shaped(Item.of("minecraft:spawner").withNBT({"PlayerMade": 1}), [
         "FFF",
         "FRF",
@@ -370,6 +370,23 @@ ServerEvents.recipes(e => {
         result: [{item: "minecraft:wheat_seeds"}],
         tool: {tag: "forge:tools/knives"}
     })
+
+    // Recipes for Card Decks
+    for (const [id, dye] of [
+        [0, "blue"],
+        [1, "red"],
+        [2, "black"],
+        [3, "pink"]
+    ]) {
+        e.shaped(Item.of("playingcards:card_deck").withNBT({SkinID: id}), [
+            "PPP",
+            "PBP",
+            "PPP"
+        ], {
+            "P": "minecraft:paper",
+            "B": `minecraft:${dye}_dye`
+        })
+    }
 })
 
 ServerEvents.tags("item", e => {
@@ -394,7 +411,7 @@ ServerEvents.tags("item", e => {
 
     e.remove("supplementaries:ropes", "quark:rope", "farmersdelight:rope")
     for (let knife of bad_knives) e.remove("forge:tools/knives", knife)
-    
+
     e.remove("forge:bread", "mynethersdelight:slices_of_bread", "mynethersdelight:toasts")
     e.remove("forge:dough", "create:dough")
     e.add("forge:dough", "vintagedelight:oat_dough", "kubejs:rice_dough")
@@ -462,7 +479,7 @@ LootJS.modifiers(e => {
         .replaceLoot("aquaculture:gold_fillet_knife", "farmersdelight:gold_knife")
         .replaceLoot("aquaculture:diamond_fillet_knife", "farmersdelight:diamond_knife")
         .replaceLoot("aquaculture:neptunium_fillet_knife", "aquaculturedelight:neptunium_knife")
-    
+
     let mod = e.addLootTableModifier(/apotheosis:chests\/.*/)
     let items = [
         "helmet", "chestplate", "leggings", "boots",
@@ -479,17 +496,17 @@ LootJS.modifiers(e => {
         mod = mod
             .removeLoot(ItemFilter.hasEnchantment(enchant))
     }
-    
+
     e.addBlockLootModifier("minecraft:spawner")
         .addLoot(
             LootEntry.of("kubejs:spawner_fragment")
 //                .applyBinomialDistributionBonus("minecraft:silk_touch", 0.7, 3)
                 .applyBinomialDistributionBonus("minecraft:fortune", 0.3, 1)
         )
-    
+
     e.addLootTableModifier("minecraft:chests/nether_bridge")
         .addLoot(LootEntry.of("kubejs:heart_of_the_flame").when(c => c.randomChance(0.5)))
-    
+
     e.addLootTableModifier("betterdeserttemples:chests/tomb_pharaoh")
         .addLoot("kubejs:heart_of_the_sand")
 

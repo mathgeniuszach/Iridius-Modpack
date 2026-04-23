@@ -1746,7 +1746,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/tweaks.js"
-hash = "573a0b5231c12f2e6fa2523fd0fcbd3e82b2ef613bb43f0f215b77675c477682"
+hash = "9cd51db1c8bbd3add8dd2df50582f1cd0614f49eaddd74fbdae06119c85b2653"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
