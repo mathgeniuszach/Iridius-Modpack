@@ -6,7 +6,7 @@ hash = "7e7170e3cebf88a9f60c7b8421418323c09304da1af4d5e90f4da1dc1c8a2661"
 
 [[files]]
 file = "README.md"
-hash = "6a0e0d27b1ceedb3d084451b7c2f19c8ff339422b726f7b01e5cbbc26385ac11"
+hash = "adc453dbfa0dc2f5d2924a01902c3234d1b59805e46e0444fc37b8dccea4f89d"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -2042,7 +2042,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "ef02d7733259ff599e02575534f1bd8d793d7e929b2e42b237b8844cdebb1302"
+hash = "d891d690f4c6407dc4605ed2f9a910fa11ee9f5d3b6504c33f1f1cdee2b1132f"
 metafile = true
 
 [[files]]
@@ -2201,11 +2201,6 @@ hash = "8fb0ae9433533a1d24f9b738d6fa27f1d3091b10fd60fd9b0944b48901993c7e"
 metafile = true
 
 [[files]]
-file = "mods/mc-cards.pw.toml"
-hash = "9d97a9a28c59c0f2e7da402b0b37c1d67f5d0b8cd0c91cd65a23fcb2cea9dc4f"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
@@ -2333,6 +2328,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "b1f540bb76039ab86c9160d8d92ca93fe21559aef95f1e5819f7061740c6e8a6"
+metafile = true
+
+[[files]]
+file = "mods/playing-cards-chips.pw.toml"
+hash = "737bfceef35e01742ad90a9779b61a437cf0fb9742c23dafc4dba44a9c819660"
 metafile = true
 
 [[files]]

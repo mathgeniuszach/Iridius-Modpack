@@ -58,9 +58,9 @@ Content mods (excluding Food Mods) add brand completely new content to the game.
     - **[Macow's Windows](https://modrinth.com/mod/macaws-windows)** - Adds curtains, blinds, and more windows.
 
     </details>
-- **[MC Cards](https://modrinth.com/mod/mc-cards)** - Adds trading cards and trading card packs to the game.
 - **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
 - **[Naturalist](https://modrinth.com/mod/naturalist)** - Adds 24 new animals with an ecological structure and food chain.
+- **[Playing Cards & Chips](https://www.curseforge.com/minecraft/mc-mods/playing-cards-chips)** - Adds tabletop-simulator levels of playing cards and chips
 - **[Quark](https://modrinth.com/mod/quark)** - Many, many large and small changes. Enabled on a per-feature basis.
 - **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
 - **[Simple Football](https://modrinth.com/mod/simple-football)** and **[Simple Soccer](https://modrinth.com/mod/simple-soccer)** - Adds Soccer Balls and American Footballs to the game.
