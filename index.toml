@@ -6,7 +6,7 @@ hash = "7e7170e3cebf88a9f60c7b8421418323c09304da1af4d5e90f4da1dc1c8a2661"
 
 [[files]]
 file = "README.md"
-hash = "f0ec3ca5b80fd84e988f02a580aa5c17c385dcca8d66de007599675ad5f56759"
+hash = "6a0e0d27b1ceedb3d084451b7c2f19c8ff339422b726f7b01e5cbbc26385ac11"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -130,15 +130,1127 @@ hash = "1609e6854da594779f1d9f5e201bc78fb30635366f01c40cc5704c8250579fc7"
 
 [[files]]
 file = "installer/make.sh"
-hash = "c546590173b48d814f73463dca1e4d44ed3f1976c3b7494eeef91307e384eff4"
+hash = "8613e25b473b38ca7e11db0c1ff9ca12d3feb5156516b4953d2e8a736995b79b"
 
 [[files]]
 file = "installer/packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
-file = "installer/packwiz-installer.jar"
+file = "installer/server/LICENSE.txt"
+hash = "7e7170e3cebf88a9f60c7b8421418323c09304da1af4d5e90f4da1dc1c8a2661"
+
+[[files]]
+file = "installer/server/README.md"
+hash = "f0ec3ca5b80fd84e988f02a580aa5c17c385dcca8d66de007599675ad5f56759"
+
+[[files]]
+file = "installer/server/config/apotheosis/adventure.cfg"
+hash = "c6d2e0ead7208ad68692792becc554d27b74a14e680a1923c3e16dbc866301ee"
+
+[[files]]
+file = "installer/server/config/apotheosis/apotheosis.cfg"
+hash = "5e9f9f1022e1707ed6b1930508384572fe42c659e331bfa8fe2e84f6aa2fb246"
+
+[[files]]
+file = "installer/server/config/apotheosis/ench.cfg"
+hash = "11c57858d0f036e67d585af424e9c393bd17ae015206337c411ff7ba81413e42"
+
+[[files]]
+file = "installer/server/config/apotheosis/enchantments.cfg"
+hash = "c5a11a56dd87b2a3680b20eebdc003c18907d74ae255a3a46ee414223bb4c8c0"
+
+[[files]]
+file = "installer/server/config/apotheosis/garden.cfg"
+hash = "340704766956bc1913c63df95f14075f03247793013f7a15e88a7e196b431a86"
+
+[[files]]
+file = "installer/server/config/apotheosis/potion.cfg"
+hash = "41cbb8ec035cdefaf47ca7ca71187b41eb8ce67905f825cc05e3c8dd8ba2702e"
+
+[[files]]
+file = "installer/server/config/apotheosis/spawner.cfg"
+hash = "ec6c530942398344efaa8bf1c8fb0d2b7aa6e37478047e244b39a17a4f78ba06"
+
+[[files]]
+file = "installer/server/config/aquaculture-common.toml"
+hash = "01292e6f5b6334c25ae319204a3fb645e207009add4ddfeb32aee9831c7aff11"
+
+[[files]]
+file = "installer/server/config/betterdungeons-forge-1_20.toml"
+hash = "e83cd0c71c1cd4176f2fd68ff5b5043528b276605c5fe8774519908489e27b86"
+
+[[files]]
+file = "installer/server/config/chatpatches.json"
+hash = "f25d8117a42342d1344037d16ce1707e50a4d409165fc5111c0e0f09009dabc1"
+
+[[files]]
+file = "installer/server/config/create-client.toml"
+hash = "8f62046e7c806870e997c4876b9e935f56ae81cbdabac4c4a2be00ae41fa885a"
+
+[[files]]
+file = "installer/server/config/embeddium-fingerprint.json"
+hash = "2e58779e6ba53a77c9af4aa8f9bec5f748db7ac35052d155254993f8c884f3d1"
+
+[[files]]
+file = "installer/server/config/embeddium-options.json"
+hash = "2d6b0cc746a7524c55237472e3186f85357104c5c3a19a10defb66f6112bf778"
+
+[[files]]
+file = "installer/server/config/emi.css"
+hash = "7eb10a08f05064b47538418a917a9df61575a525b51f107f834f0d964e85cd70"
+
+[[files]]
+file = "installer/server/config/farmersdelight-client.toml"
+hash = "82da1434d248122088bdfe85d9dc2c983775b5094283a3b4c022a5657a07c55c"
+
+[[files]]
+file = "installer/server/config/keybindhider.json"
+hash = "f9addf75253638390da6a096da26c4c411d26ceb9812c788ed74ac0e5444bec8"
+
+[[files]]
+file = "installer/server/config/midnightlib.json"
+hash = "5937187f5c3ad5f1a75a65d7f384a78d15a1a6d96d0667ea61bd103279122920"
+
+[[files]]
+file = "installer/server/config/naturalist.json"
+hash = "f2fd9bec823df4f75c8a1aad1170b3b4fd66365d8ad6d8315ef4a74da6ce0472"
+
+[[files]]
+file = "installer/server/config/personality-client.toml"
+hash = "253427324a027ed91094af07e3329b8849cfe60ac1cf4ff11293c5c015ddf5de"
+
+[[files]]
+file = "installer/server/config/quark-common.toml"
+hash = "efe0878769479b18d1b0f1b39957292b18dfb06506acd6afa6ae4e6a80d96064"
+
+[[files]]
+file = "installer/server/config/refurbished_furniture.server.toml"
+hash = "c6d9bef0beeadbdf7bac8f6f9060f3ee47be9e637009d811a185262e38c20a6f"
+
+[[files]]
+file = "installer/server/config/resourcepackoverrides.json"
+hash = "e36d04742781258fd4faf45a5ca121bc400ff0b8eac861e91e74310a2487e4a7"
+
+[[files]]
+file = "installer/server/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "installer/server/config/supplementaries-common.toml"
+hash = "222ac9f7dc1d2d77240d5d27b0e0257c3910c47d155bd9f4c19b758cad579942"
+
+[[files]]
+file = "installer/server/config/toadlib_config.toadcfg"
+hash = "d368f487af49f020059b854f13a691133b315ae770c4fd568e7b5038561ceaa2"
+
+[[files]]
+file = "installer/server/config/visualworkbench-client.toml"
+hash = "2724ceb43b999afaf5f91e23c38503624d663e1ad5d832aa78a5385bb9898bd7"
+
+[[files]]
+file = "installer/server/config/watut-client.toml"
+hash = "2d7b91377f9b1680767e9d37c6f8bf44a7e5cc954892e490e9a75e8bc23b49ff"
+
+[[files]]
+file = "installer/server/defaultconfigs/create-server.toml"
+hash = "9c366307cc79a15e4ed349c407fcce1615b8db10f4581d27bfc0d6799449b520"
+
+[[files]]
+file = "installer/server/emi.json"
+hash = "67cf8dc33d0af26bce2f6709795c2e780a9379c15ea5b572758c000a4ae809bb"
+
+[[files]]
+file = "installer/server/icon.png"
+hash = "1609e6854da594779f1d9f5e201bc78fb30635366f01c40cc5704c8250579fc7"
+
+[[files]]
+file = "installer/server/installer/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "installer/server/installer/packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "installer/server/kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "installer/server/kubejs/assets/cosmeticarmoursmod/lang/en_us.json"
+hash = "75783cfda2f1adbb5b130a8495dc3bf962bcc83db00f4449669eb19dec02a736"
+
+[[files]]
+file = "installer/server/kubejs/assets/emi/index/stacks/tweaks.json"
+hash = "7ada5e979b8f99261a6e2ee2d573e9a636b6cad7caccff156bc77e2efd2ef2c0"
+
+[[files]]
+file = "installer/server/kubejs/assets/ends_delight/lang/en_us.json"
+hash = "3d8eeff04fc6075dcc237170969c6af597d8828ba6fee12d85c57de5ecbe940e"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/apple_juice.png"
+hash = "707b97ee72d99883de912f7ef04fe64520d7067a88defc0d6547a442dbfb708a"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/asparagus.png"
+hash = "bcf77bb5491a0bc744e7f1436c86689f24ad7a0f27ff0498eb22486b16a17983"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/asparagus_and_bacon_cheesy.png"
+hash = "7cfcd0d198f4b24096b30e818b71100a1456254ff95d4eda681c0aef25aef79f"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/asparagus_mushroom_pasta.png"
+hash = "33d68e04ed70023855440b73b90d78a4683cbdd5f94b5a6e42ca58ccdc71ab44"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/asparagus_seeds.png"
+hash = "2eaf082497e8975b147f4fd82baeb484ac698b7f419991d8d0333249a73b91ee"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/asparagus_soup.png"
+hash = "51c5e306018eb927b710aa93d7aad2cedf37952b4c9295802ed54bc4c2deab59"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/asparagus_soup_creamy.png"
+hash = "1f44b4988248340152d23feb8001d636e65b1ac50d82ef1e6de1ad934712efc6"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/baked_sweet_potato.png"
+hash = "a3f1e8f105132595fac4ece088a3825079125b97cbecd40e263a912ea24d04f8"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/berry_sweet_roll.png"
+hash = "e88be732684f0ca46e29077a9a3d53ad65dd9384b72c10fdde1b73d35c0bb5c5"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cheese_sandwich.png"
+hash = "e588448a7c051a2b5e437656d79a1d88fbc09bda65e562ef32aa5c47eee3af9f"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cheese_slice.png"
+hash = "63655a021d8a4c277bb190d158b842cd3776e1e65fe0c46b2018966debe89a7f"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cheese_wheel.png"
+hash = "56a80c057b8e6b2649e2d5d6e8cadacc7f1ce157d507fd4d47e385eeb8bed832"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/chili_pepper.png"
+hash = "b0007a031c3080baf13de531bcfe1f162eb9a14709ca279bdfb0b063e5821de9"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/chili_pepper_seeds.png"
+hash = "0f920ebcbca5a5e4c8c66bf0a46af49d3b23871648091c322c6daa4e1484ca12"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/chocolate_cookie.png"
+hash = "53f3352643ff242984691e51911b85af8fcb2ac0e03448688b786a5750e582e3"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon.png"
+hash = "e888029a955980900e021e6d97eb639a9438d15da6a3f16a69392e42b89c6174"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon_apples.png"
+hash = "925154f4c44cea598fff4ab322e007c5d9e95b6370d9b5d63d705dc84be611bc"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon_boat.png"
+hash = "771a2463b281e897b45e76ff6e6dba7c3a9fcf7018f10b78128137a8549a8779"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon_chest_boat.png"
+hash = "b1dd6ddc38b1892c1d49c9cfcb7c4f87fc7547231213ab537cd7f729c6c90ad7"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon_door.png"
+hash = "2df7415ab086f2c69857decc9c24d7fac33732056224585d84b75f77ded88d13"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon_hanging_sign.png"
+hash = "483f60560f3cf7b264bacc66f3f3ac7f60ae705cec762f74ccfeb82d907a232b"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon_rice.png"
+hash = "c575f4708f3e4a7fb1baf6f762b5a6d294cdb0326f99e0cc61506321559f7223"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon_sign.png"
+hash = "f774cfbff4d70c027892effedccacfbcd4daeaa7205c9e6a8de50fd0c52facc4"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cinnamon_stick.png"
+hash = "e4d10b13a94819fd84196caf8311d0886cc51afb12a04654a6019537c973d594"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cranberries.png"
+hash = "0d6937d5d1571b1ac74472bd7b909531fdc9cef583a1c755ba1e12e797958cc2"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cranberry_chicken.png"
+hash = "7250d6a4c214ecf1b7e26994a0db825a82a92d07b21ca3ed891b9081453c3b1c"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cranberry_cobbler.png"
+hash = "6a076f17d0ad926371f38b277696aaa1bb7957e0ba1fd25329fa74dbd31057fa"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cranberry_cobbler_slice.png"
+hash = "cd6fbff5174f27a5d47b28fb7d0dbb4d0899ceb7542ba1b1cbf82010f5008a30"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cranberry_goat_cheese_toast.png"
+hash = "c83d6ce29e3c6ba6eea1acb7be6d728d335afd67ba31bdea111f320a884f5af6"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cranberry_jelly.png"
+hash = "2b8fa1dfc38cdc032d4f0d5051ebf7120f0ea8b407649b5c0dd1218860531c42"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/cranberry_juice.png"
+hash = "ed00a193452271b74fa3d47024c311da1c45074789bbdcd19193e6d138aa4ee0"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/crushing_mallet.png"
+hash = "7086d695b4093c115e57aed7fb7204fb6a31115d5ea67900ae5c4b740789a12b"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/empty_container_slot_bottle.png"
+hash = "ee81396a55b59b260967547b9645c3b5442f1edf9602c5af0eaf62e588843acd"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/enchanted_golden_apple_juice.png"
+hash = "62bbd752e0b123d1d05c634859c28379e10ab701eb445ac9c8d1e4b0fb1c63b7"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/fruit_punch.png"
+hash = "aaab857922eb437f96723ce148a583669573e69b607095890a1cded131d9b366"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/glass_bottle.png"
+hash = "6a09a39bb6c41bc92bd5eca1f51caf5b582a85f68206b164476c8e14a4669416"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/glass_jar.png"
+hash = "ae3fc74350911b7e07096064485d2b1bbb7f37875b014d8f420160e5b777d853"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/glow_berry_jelly.png"
+hash = "2e9096226afd312b6cde6fda734f5afbb12f71b8d648ced1a04c08dc8c8a2e37"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/glow_berry_jelly_sandwich.png"
+hash = "d2c2c1b9d25004953f301bd70623523e80088cb007395324afeab6ec69f01951"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/glow_berry_juice.png"
+hash = "dbac1b0f25f7d94ebb9972dd81b72f51cfae1a6978ead81d2c2847b1c0b4e936"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/glow_berry_sweet_roll.png"
+hash = "68cd091c3466f621ef31fbba97ab321cfd8bd08bbcf8847d3fc898f68d418535"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/goat_cheese_slice.png"
+hash = "8cbc12041e1ca86313ef4da5736aba38801b179c3c58ee5e66711ffdb5517a3c"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/goat_cheese_wheel.png"
+hash = "a0237189cee769a24f184870f6e1cc4d84b35d7384d9fe8c9db1f5118eb121dc"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/goat_milk_bottle.png"
+hash = "478ede30d82cb9357b230668a1577e1c5430adc0a3fff62077790817f7eebbbd"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/goat_milk_bucket.png"
+hash = "89598491c92669d44974fa5122b8020ef124ff17a8da7bdc8a616afbc9fe408c"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/golden_apple_juice.png"
+hash = "dc141fd5db2b6ed49611c4c6abf203ce4b44ea523f224d93867695552ba97813"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/grilled_cheese.png"
+hash = "bf04d76c1401bf2476c8c972cc3c026ecbcb425e36fcbc5074565cb69696ab7b"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/honeyed_goat_cheese_tart.png"
+hash = "f3c60654adde6e8079dbd3f90299880e9c09f7bea3fae2bc2eb449e8b3727b40"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/honeyed_goat_cheese_tart_slice.png"
+hash = "e678a4bd4be037452bb3226eed82a63d85c2024b11cf898b4c9df8441a1b0dbe"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/juicer.png"
+hash = "ce691706688eab284118cbb77b4871497c477572c2ac47ef711a17edcb972e0a"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/lemon.png"
+hash = "db647655fc90f7ab98be474f22b6d5278baac8b99240d7ac40d28827b4aad022"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/mac_and_cheese.png"
+hash = "76111c7d20bec0dc50551369b11072fad695444e2e036b8d79320b22954762da"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/peanut.png"
+hash = "375a69d9f3edfc72f7f458942fae860af4b2d0ad9d5727da2bc5270f41f46c5d"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/peanut_butter.png"
+hash = "b81c2035d8f936aefdb42ecd3b91d077216f6ef6bc76a0dd2bd5f19514c44834"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/peanut_butter_honey_sandwich.png"
+hash = "2a002505ee5db702e34126e8b40e272be4e309914311a78977fc4371088d0dc0"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/peanut_butter_sandwich.png"
+hash = "faf793b67d8a20a47af5d678eef9f72498120d9804580839f1d6709d419194bd"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/peanut_honey_soup.png"
+hash = "ef334e68bcdabf3c0023c4520c61f5ee23f2b68235e094ad5c6a1bc5ec924832"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/peanut_salad.png"
+hash = "b883c0df99b804f3e1a82c57244d61785e544c7d0b7cff8d4f01e6e0d07dcafc"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/peperonata.png"
+hash = "686d927d289dc845b3fcffcc33bc04b6afa23704447aea5b5318d716cf944f5e"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/pumpkin_juice.png"
+hash = "0d8ac13b9dd16ab2772b07893aee7b75de27402c13fdac6328ea4f6c7c5755de"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/salt.png"
+hash = "78fdd877351cc721bfd293841a46f6cfe539b2cf1e964c80175b9a01b37c37ae"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/salt_rock.png"
+hash = "b3be3637d0273364b423bc18cb650cbba86f8decb5c664dd7c5a3fad7d7a2883"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/snickerdoodle.png"
+hash = "e538d575b077e9f177d70e0c41b2496a320ce799846625a50ad5766792ecf65f"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sugar_cookie.png"
+hash = "e31f38a0490353bb7a2a5be8dfb31d85243a3ccb2e5bf9d767de83faa5b5af40"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sweet_berries.png"
+hash = "df3d2e43e671dd16d2b101e5e2273330e1bcae0bfe36cac5e8db68ce6ce7fc88"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sweet_berry_jelly.png"
+hash = "94e4c9e5f5ba60666d52b21fe8c808768768c1615ff240879191abe9af6c7453"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sweet_berry_jelly_sandwich.png"
+hash = "5396e73cf8933f026766bacc3294eb74ed5175e146ae1157d18429c0a7558cc3"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sweet_berry_juice.png"
+hash = "7cfede6952a794333672c718cef04cf1f528f5a43a680088bdb294f3dab106e0"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sweet_potato.png"
+hash = "f3579c649efa3e829c67dd7f65c4f1404009b655a655ae5dc08cc438f73d3ade"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sweet_potato_casserole.png"
+hash = "55aab06de4f25b4b9e32603f10732e0cf6a4d30cb828060097198681fb196152"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sweet_potato_salad.png"
+hash = "1b58cd5f6e55ea8f2223650338f1d71bc560d2dfddfac4a97c125a194375ebd9"
+
+[[files]]
+file = "installer/server/kubejs/assets/expandeddelight/textures/item/sweet_roll.png"
+hash = "dbb01ddd9159804562568b16991c1d4b8ee968e8ae38e0a89f716cd24b3d4989"
+
+[[files]]
+file = "installer/server/kubejs/assets/farmersdelight/lang/en_us.json"
+hash = "f12da35040aaca3a0e7dea5fd5475778ccded503847bf33c4c42fa0bde83d8fb"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/chunk_of_the_earth.png"
+hash = "2abfd3aaf37dcb346561010b09557d50f8ef52d11a1f554b0301f70de519b82b"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/elemental_heart.png"
+hash = "8e9174be989e387f81dff03f6a06c71de096e219e9d4cb1662f756c6abe64846"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_air.png"
+hash = "954b40da6ace878309e381bc3c445eae47779728a83075fe7e7b8287573f639c"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_cards.png"
+hash = "1cb2f7ea7ec9d408aee6245076d124904a3ec211b661b7a1d696c1eef0c9370e"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_earth.png"
+hash = "9a714ec7e14e13a43ce3c7cd593eef338f2b51a688841a531736b02a5bfab767"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_elements.png"
+hash = "71df856af07e39d9641191c042621dce5b4caead01149f44b605defcd83d65eb"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_flame.png"
+hash = "73e2786b82db9bda58ce3dc0930c8444cf5a95be95b820e5c750c2c65c8e97de"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_frost.png"
+hash = "72e0440692c145fe05d99f39a43372e2da1e18583599e5e554c942e9a390ad7f"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_jungle.png"
+hash = "dc5b1817293d5d2909fbd30d3b9a39f18f65b4488c9c94dafb6d71aaf3dc9082"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_sand.png"
+hash = "d06ebe1faf6a0fc225ea5ded34f94439cd8e86ad0e130ba2880c829c662dd55c"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/heart_of_the_void.png"
+hash = "d99d2eeb2d381c45e105a0a76a1d7e63d83cd6b16c1c4f99d02a9ccd06a07f96"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/pebble_of_the_earth.png"
+hash = "dc76d9476e5edcff22ef929d86a3cd201ca61af7a950cf9b33067bbed51962bb"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/rice_dough.png"
+hash = "af498fcb6dd3aed7e9890883ed93ae144c58d4d2ebc8e57165fc31d57b82bc9b"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/rice_flour.png"
+hash = "2b138531f26dd35ac9bcd65bd257e3ecf1b5806870fc229964363a9ada90dbd3"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/sand_particle.png"
+hash = "884c5e2f4410bfacc19d32452068c1e4fb7167eb301875543ee31dc3bddb9860"
+
+[[files]]
+file = "installer/server/kubejs/assets/kubejs/textures/item/spawner_fragment.png"
+hash = "096432f8a8dc554a712f0fdb04872120f5727df38654d88b0a6d2b6a48fb7377"
+
+[[files]]
+file = "installer/server/kubejs/assets/minecraft/lang/en_us.json"
+hash = "ae160c233c2577c81139ea8e05b4882c60861b22099dbe4c1de00dabbd6295d9"
+
+[[files]]
+file = "installer/server/kubejs/assets/mynethersdelight/lang/en_us.json"
+hash = "d456580779a5e3a5f95054fd179268c68965e824b78b4d990a9f79b80620157a"
+
+[[files]]
+file = "installer/server/kubejs/assets/quark/lang/en_us.json"
+hash = "5d05d6c02124bdfb454f0eee7616049b318cef6ece3e872ae1994399cb1f9b35"
+
+[[files]]
+file = "installer/server/kubejs/assets/supplementaries/en_us.json"
+hash = "08f2b0af3c7caf2dc20b9484e687f82137bf2fd4d3782e5e84fbdf7577c3fed0"
+
+[[files]]
+file = "installer/server/kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "installer/server/kubejs/client_scripts/src/tweaks.js"
+hash = "6d22615eb97e81660b15b54c5be2bf0bb02bc2279c906c2040ecf6f03acae656"
+
+[[files]]
+file = "installer/server/kubejs/config/client.properties"
+hash = "e2b02e6bcddc567f9202c38edcf08804cc66fb893fa9248b1da7920fd82114e8"
+
+[[files]]
+file = "installer/server/kubejs/config/common.properties"
+hash = "ae894b02e6bfdf4c393e80ca5fe502a0ca61c97f4a6ac11c56a723265a1ab60d"
+
+[[files]]
+file = "installer/server/kubejs/config/probe-settings.json"
+hash = "103f102a28b9110c3b1e2d82660d38610c4a6a23f55823999f29bb11a4b276f9"
+
+[[files]]
+file = "installer/server/kubejs/data/apotheosis/loot_tables/chests/chest_valuable.json"
+hash = "a99580bafd6c8c39225709acaefffc79438cc3ca52f1c45eadd903297ef1b7c8"
+
+[[files]]
+file = "installer/server/kubejs/data/apotheosis/loot_tables/chests/spawner_brutal.json"
+hash = "36ae783b050caa9a7b311b69abe66082892cd69f756ca7aea2a47447e67cf997"
+
+[[files]]
+file = "installer/server/kubejs/data/apotheosis/loot_tables/chests/spawner_brutal_rotate.json"
+hash = "dde91a51591609f16e067cc154b4520a8cfa9f1a6ee6ed450eea3cb1e0849dfe"
+
+[[files]]
+file = "installer/server/kubejs/data/apotheosis/loot_tables/chests/spawner_swarm.json"
+hash = "a8eac6fc8712bb9126f3958052a7be5fae4e921b583f173d20f6547b5d8cd2f3"
+
+[[files]]
+file = "installer/server/kubejs/data/apotheosis/loot_tables/chests/tome_tower.json"
+hash = "2e7c13e6484232d420d8c38ece586f379de1df0846adaaee35bd5313e66473c8"
+
+[[files]]
+file = "installer/server/kubejs/data/cosmeticarmoursmod/loot_tables/grant_book_on_first_join.json"
+hash = "c86308ea60eed637ee42113f8962027e9b97c5c5a52f7b33e94fe6a620c99e4a"
+
+[[files]]
+file = "installer/server/kubejs/data/create/recipes/compacting/chocolate.json"
+hash = "3f9f1580a5f6dce9f6ca166d6d83954a3b10994ff7dc1f37f864d39ca33d52c9"
+
+[[files]]
+file = "installer/server/kubejs/data/create/recipes/emptying/compat/farmersdelight/milk_bottle.json"
+hash = "c7a46f93f4ce47817ca75d6b29749717755c65a157ff4fc9319ed403889be2b2"
+
+[[files]]
+file = "installer/server/kubejs/data/create/recipes/milling/rice.json"
+hash = "d2d8a58f3ddebb7a55927f83c7d1c39db23fb5c8624669a3e2aa6eb758a9e759"
+
+[[files]]
+file = "installer/server/kubejs/data/create/recipes/mixing/chocolate.json"
+hash = "c2e24a6e6af2d30abc01952f87a6d3f58e02cd2c7a80e963769464bf3ba5ad45"
+
+[[files]]
+file = "installer/server/kubejs/data/create/recipes/mixing/chocolate_melting.json"
+hash = "52d72d9279018e844cb3e0642b353e28f1ae98bc7b23c7b1bf7606eea753f454"
+
+[[files]]
+file = "installer/server/kubejs/data/farmersdelight/recipes/integration/create/mixing/pie_crust_from_mixing.json"
+hash = "711a00eb479a360c649ec362bbae25b0cd4d496d991ca3ed9727d89bba7cb127"
+
+[[files]]
+file = "installer/server/kubejs/data/farmersdelight/recipes/pie_crust.json"
+hash = "a58cc8001670f176c6ab29c5b81001859b4011cf8bf2b97ee9635d46a45c20d6"
+
+[[files]]
+file = "installer/server/kubejs/data/neapolitan/recipes/adzuki/adzuki_bun.json"
+hash = "5ba32a7a02b4e16deb2a4cfde3961b2b24cd9bd13310c9ff7d06576d782d1cfb"
+
+[[files]]
+file = "installer/server/kubejs/data/neapolitan/recipes/banana/banana_bread.json"
+hash = "eb694c3a5fb1ec6c965fa218b5d92c450317b86b4e555ea78d7b1a596acee13a"
+
+[[files]]
+file = "installer/server/kubejs/data/neapolitan/recipes/chocolate/chocolate_bar.json"
+hash = "263bfd04e9f164fd2f14bcc67ce64e93868cd788edb1f4a13669c6b6e6e8f96e"
+
+[[files]]
+file = "installer/server/kubejs/data/neapolitan/recipes/strawberry/strawberry_scones.json"
+hash = "a4adbc72ff2e765c859d8f4b3356782a689f033c11ad5d9f3df51138f3055df8"
+
+[[files]]
+file = "installer/server/kubejs/data/supplementaries/curios/entities/player.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "installer/server/kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+
+[[files]]
+file = "installer/server/kubejs/server_scripts/src/tweaks.js"
+hash = "b8e02f30077da29aaea8a91a2db87b126676a6ed7f30a01d52c530ea467ce483"
+
+[[files]]
+file = "installer/server/kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
+file = "installer/server/kubejs/startup_scripts/src/tweaks.js"
+hash = "f10c35eac06d743ff476b3275aaba19c45c0be3e053e22702417921f14858cc8"
+
+[[files]]
+file = "installer/server/mods/Apotheosis-1.20.1-7.4.8.jar"
+hash = "5ed8c17cf62837bb649d1054e3e4fe93c4d9bdec98fe9f332e2637a260da30da"
+
+[[files]]
+file = "installer/server/mods/ApothicAttributes-1.20.1-1.3.7.jar"
+hash = "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a"
+
+[[files]]
+file = "installer/server/mods/Aquaculture-1.20.1-2.5.5.jar"
+hash = "8189d09adde558cd2ef97627e9480e4b620c3fa1de7ed064d1c20346288841e5"
+
+[[files]]
+file = "installer/server/mods/BoatBreakFix-Universal-1.0.2.jar"
+hash = "c3085a8ab45025ff581dbdeba334514611b68d41995cb8685264a595029de969"
+
+[[files]]
+file = "installer/server/mods/Bookshelf-Forge-1.20.1-20.2.13.jar"
+hash = "c31fed2c1a1c0d72d3ef996bb84521b7d6a8fbd3115c89c001f13a7ffd56f64b"
+
+[[files]]
+file = "installer/server/mods/Chunky-1.3.146.jar"
+hash = "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141"
+
+[[files]]
+file = "installer/server/mods/Clumps-forge-1.20.1-12.0.0.4.jar"
+hash = "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0"
+
+[[files]]
+file = "installer/server/mods/Compat_FarmersDelight.jar"
+hash = "0a4cb953e7da508f2031d03c40c20eacd8ef2c9227e8eaba67610fef50245443"
+
+[[files]]
+file = "installer/server/mods/Connector-1.0.0-beta.46+1.20.1.jar"
+hash = "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac"
+
+[[files]]
+file = "installer/server/mods/CosmeticArmor-1.20-1.6.0.jar"
+hash = "72fd672fd7c25f9a8db49cf6c625c1b6af2acf4971a048d76e0db2557b898859"
+
+[[files]]
+file = "installer/server/mods/CosmeticArmours - 1.5.3.0 - 1.20.1 - Forge.jar"
+hash = "708058864bfdd4915c0e974cf35009b79d3535b230e1f32a8237da2e6da1ebaf"
+
+[[files]]
+file = "installer/server/mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar"
+hash = "a08b641e6cc1d4867e0878826ac4fb9e55b45907d0fa3429172ecad8cd678ce9"
+
+[[files]]
+file = "installer/server/mods/FarmersDelight-1.20.1-1.2.9.jar"
+hash = "45e8e4daf04283fc5a7fec955e6a1e622ee0e9d4e1b5e79dbcf5b095bb510082"
+
+[[files]]
+file = "installer/server/mods/Geophilic v3.4.4 f15-88.mod.jar"
+hash = "33db2e7c85c2166d49d2e7799efd723163a402e7883047a04afe810c716abff7"
+
+[[files]]
+file = "installer/server/mods/Jade-1.20.1-Forge-11.13.2.jar"
+hash = "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5"
+
+[[files]]
+file = "installer/server/mods/LeavesBeGone-v8.0.0-1.20.1-Forge.jar"
+hash = "e621c22e7107dada09298dffc04dc56144ac08e6e41e8b41c200dc939c662ac5"
+
+[[files]]
+file = "installer/server/mods/MyNethersDelight-1.20.1-0.1.8.jar"
+hash = "56e93306cbf225b3a4e6868d8dc09305411001c83dafff8df79edc9ef9245231"
+
+[[files]]
+file = "installer/server/mods/Necronomicon-Forge-1.6.0+1.20.1.jar"
+hash = "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3"
+
+[[files]]
+file = "installer/server/mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
+hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"
+
+[[files]]
+file = "installer/server/mods/Patchouli-1.20.1-84.1-FORGE.jar"
+hash = "9cc38ebb5e29b350222e337b7a5a2ba238c802230a89434ce00e90ee3026d056"
+
+[[files]]
+file = "installer/server/mods/Placebo-1.20.1-8.6.3.jar"
+hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
+
+[[files]]
+file = "installer/server/mods/Platform-forge-1.20.1-1.2.10.1.jar"
+hash = "532ca1f572c00bb7d3f2308bdab1a64072063da0d1fce3a56aee5a0b89622a11"
+
+[[files]]
+file = "installer/server/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
+
+[[files]]
+file = "installer/server/mods/Quark-4.0-462.jar"
+hash = "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478"
+
+[[files]]
+file = "installer/server/mods/SkinShuffle-2.4.0+1.20.1.jar"
+hash = "f79de1e77438927840e0a1f06a0f1933fb355133d241f5755b298348e235ba84"
+
+[[files]]
+file = "installer/server/mods/ToadLib-1.3.5-1.20.1.jar"
+hash = "edd60fc79f027971e9e3031802a91deb7342a1a9cc6fe413071e2f384f68389a"
+
+[[files]]
+file = "installer/server/mods/Trials-2.3.3.jar"
+hash = "1d86cb3164d84fdcf782f220b2c346c88392508a265fb09c3e10f8758a1453d8"
+
+[[files]]
+file = "installer/server/mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar"
+hash = "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a"
+
+[[files]]
+file = "installer/server/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar"
+hash = "c312ae6078bca65c179c74d3916fd22bff5dae70eef3c976b0ea7f3326d1917b"
+
+[[files]]
+file = "installer/server/mods/Xaeros_Minimap_FP24.2.0_Forge_1.20.jar"
+hash = "1134c9856a28acfb6ffede3fe936a4ede981cb360db60006b01a34f8078fd487"
+
+[[files]]
+file = "installer/server/mods/YungsApi-1.20-Forge-4.0.6.jar"
+hash = "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1"
+
+[[files]]
+file = "installer/server/mods/YungsBetterCaves-1.20.1-Forge-2.0.5.jar"
+hash = "bd1e07e03626ad851e7b84e5a8a6ecdd976f7e923a3e56df69c6b6e906e7389e"
+
+[[files]]
+file = "installer/server/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
+hash = "5a74294725232c665b908af6e25224d111550cf69d74613e415b9f48ff150d16"
+
+[[files]]
+file = "installer/server/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+hash = "93c24e4075c51da0866f3fc92322bdb60e590ac2cd78dce275460839c54c36f5"
+
+[[files]]
+file = "installer/server/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+hash = "728c0a807742356887edf7d4f736b3870b7c84007ec9c495c27da1dc0b61078d"
+
+[[files]]
+file = "installer/server/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+hash = "12cffc99dccca69d294ba5bc39c331367794b339061572a6f3773620303a2f51"
+
+[[files]]
+file = "installer/server/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+hash = "bea2640c4afeb5231362a756d886ca4f246c7951175c91348272b3ce5d483bae"
+
+[[files]]
+file = "installer/server/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+hash = "054b0a1be86510ed6bd05de66a29200f13f5603c0c9eb7e62074ddc3d19cb0e4"
+
+[[files]]
+file = "installer/server/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+hash = "24b3bdc844755e8a39571b5000d8dd829543f7b150d154016ccd926e47d06a71"
+
+[[files]]
+file = "installer/server/mods/YungsExtras-1.20-Forge-4.0.3.jar"
+hash = "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d"
+
+[[files]]
+file = "installer/server/mods/Zeta-1.0-30.jar"
+hash = "7b68e166061c6ea0a8ac1585b0ae222f12bdd350728f3d797b520c1e915a310b"
+
+[[files]]
+file = "installer/server/mods/abnormals_delight-1.20.1-5.0.1.jar"
+hash = "e839316b3919b32a9915d4c4b8ed6df96052550f7f5f19165310777200252a13"
+
+[[files]]
+file = "installer/server/mods/alternate_current-mc1.20-1.7.0.jar"
+hash = "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565"
+
+[[files]]
+file = "installer/server/mods/amendments-1.20-2.2.2.jar"
+hash = "564f709a72cb3ada3cc66a838bda1f73c7012231542351be64b8ee086c4cf5ab"
+
+[[files]]
+file = "installer/server/mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+
+[[files]]
+file = "installer/server/mods/aquaculturedelight-1.1.0-forge-1.20.1.jar"
+hash = "fa997c7cf239d14dfd3e5c817b474f82717415c4fdbcc74247b3cd01f8cd54ab"
+
+[[files]]
+file = "installer/server/mods/architectury-9.2.14-forge.jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+
+[[files]]
+file = "installer/server/mods/armorstands-1.2.1+1.20.jar"
+hash = "f2c6a0376cd128bc4eebf2350416451ee7f30bbbe3a98714e10d2237b6ca5f8d"
+
+[[files]]
+file = "installer/server/mods/balm-forge-1.20.1-7.3.37-all.jar"
+hash = "5b2776de85cefc575edeb5f864400aab7cd521de7eb30abcfc11100e68c0af10"
+
+[[files]]
+file = "installer/server/mods/blueprint-1.20.1-7.1.3.jar"
+hash = "f21d3560ae3e5ee8c0482c43bcd78ea9909a23e5b2a38478b0b25f3d99270808"
+
+[[files]]
+file = "installer/server/mods/bundlecraftplus-2.2.jar"
+hash = "e9dbb210af40a856821ca02dff4ac832cce6bf205ec7a6606db134a36fb693fe"
+
+[[files]]
+file = "installer/server/mods/citadel-2.6.2-1.20.1.jar"
+hash = "bba058ed903670e81cb98996725dbe328ba147fb72cc10cfc9e39aee59cf0824"
+
+[[files]]
+file = "installer/server/mods/cloth-config-11.1.136-forge.jar"
+hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+
+[[files]]
+file = "installer/server/mods/cofh_core-1.20.1-11.0.2.56.jar"
+hash = "d7cd3ec8083e294e17cb50fe607b416c1dc83ce885e53ba3995d86e028f790e0"
+
+[[files]]
+file = "installer/server/mods/coroutil-forge-1.20.1-1.3.7.jar"
+hash = "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
+
+[[files]]
+file = "installer/server/mods/create-1.20.1-6.0.6.jar"
+hash = "6cb1e5b25e7d5fb670ef0713ca6da17525a1b9658e2a523fd76c2a32bbc0b2ed"
+
+[[files]]
+file = "installer/server/mods/critterarmory-1.20.1-0.6.3-forge.jar"
+hash = "e692206c5e9e05f2179168ede1ad305eac953468ea6d1955ed7c558b8fd252e5"
+
+[[files]]
+file = "installer/server/mods/dcintegration-forge-3.0.7.1-1.20.1.jar"
+hash = "8da9fbc532229b4d55b4857c7fc28ded385ca6e621e95ba393a584aadef7868d"
+
+[[files]]
+file = "installer/server/mods/doubleslabs-forge-1.20.1-0.1.2.jar"
+hash = "34d66680bf90ff5934562bcf8481a564e2d0d40fc30f59a29c003364999ce217"
+
+[[files]]
+file = "installer/server/mods/drogstyle-1.3.5+1.20.jar"
+hash = "b19a65c456eae5ea378ede0644cbfe446d781ccc4580b3387bde43cc1dde3ea0"
+
+[[files]]
+file = "installer/server/mods/emi-1.1.22+1.20.1+forge.jar"
+hash = "877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a"
+
+[[files]]
+file = "installer/server/mods/emi_loot-0.7.6+1.20.1+forge.jar"
+hash = "f4e5ecc0d1e380b7f25ae18befb9fea4e865390530827eb5c290de6505300693"
+
+[[files]]
+file = "installer/server/mods/emi_ores-1.2+1.20.1+forge.jar"
+hash = "e2d1d651d1c342071831e9f90447cad5443212cb5051789d11016fb707629b3d"
+
+[[files]]
+file = "installer/server/mods/ends_delight-2.5.1+forge.1.20.1.jar"
+hash = "19544813f67c1efbe315158bdf79a89fc2070320cae2a922b6a2ec68c1c2bda7"
+
+[[files]]
+file = "installer/server/mods/ensorcellation-1.20.1-5.0.2.24.jar"
+hash = "84cb18702db2a26dfd5a21ff007e2bcf40e16092adf7b2a33b8489987c4d7b45"
+
+[[files]]
+file = "installer/server/mods/exposure-1.20.1-1.7.16-forge.jar"
+hash = "55a8351bffc41b0d4a520d004c05561d4d76c1a1128f364bd4a44251c00f1de9"
+
+[[files]]
+file = "installer/server/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
+hash = "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03"
+
+[[files]]
+file = "installer/server/mods/ferritecore-6.0.1-forge.jar"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "installer/server/mods/framework-forge-1.20.1-0.7.15.jar"
+hash = "0c29b9bab2ca7209a6cc8d80b2cd06daa4be2da81b636f7292cebebfaaea6c08"
+
+[[files]]
+file = "installer/server/mods/fzzy_config-0.7.3+1.20.1+forge.jar"
+hash = "cc0db1514435953677dea20c246b2f86a61b5ff4348143aa8e1154a2808c6191"
+
+[[files]]
+file = "installer/server/mods/gallery-1.20.1-1.0.3.jar"
+hash = "92843009ee00d4407484fa8df2a813b909117553f113b35f26f57f87cabb8059"
+
+[[files]]
+file = "installer/server/mods/geckolib-forge-1.20.1-4.8.2.jar"
+hash = "a2e4bcc986ce360f4e85d545a86b04c8c9350543ebd17069b6a44c0a8939ffdc"
+
+[[files]]
+file = "installer/server/mods/gravestone-forge-1.20.1-1.0.35.jar"
+hash = "af6de8692229f07d203e118241f31c1dc4d03f8e3b44cacd155d76b449896387"
+
+[[files]]
+file = "installer/server/mods/iChunUtil-1.20.1-Forge-1.0.3.jar"
+hash = "31ee649f34ff9c7a51d4d1b80f438a49a0387bd544b0a5cdc96e039d90f134c5"
+
+[[files]]
+file = "installer/server/mods/immersive_melodies-0.6.0+1.20.1-forge.jar"
+hash = "7625e0cf725b4316a61a30bc2fd3a50c80f29001502e3fd90852e573263d937a"
+
+[[files]]
+file = "installer/server/mods/individualkeepinv-1.0.3.jar"
+hash = "8fe260873e2c1a44e77394e0598d31d263c300ff5ab98703a2fc2d65951ffe49"
+
+[[files]]
+file = "installer/server/mods/inspecio-1.8.1+1.20.jar"
+hash = "c442e5d4a3eaa92d039a95347fb18739a005436a4e02d5c5fa71a95c4ec6242e"
+
+[[files]]
+file = "installer/server/mods/jei-1.20.1-forge-15.20.0.116.jar"
+hash = "c6596939e9b47d1a212a6e2761dbe274971a9b5ea39ee274d778c854b5bfead4"
+
+[[files]]
+file = "installer/server/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+hash = "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+
+[[files]]
+file = "installer/server/mods/kotlinforforge-4.11.0-all.jar"
+hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
+
+[[files]]
+file = "installer/server/mods/kubejs-forge-2001.6.5-build.16.jar"
+hash = "3de6b7267d3aab981848ed54d3afe7edf20532fa4060631fd6fffcd99ac5f3d5"
+
+[[files]]
+file = "installer/server/mods/languagereload-forge-1.20.1-1.0.1-all.jar"
+hash = "d8c7b892ce254dfd4b8722e5b45a5e688423970a5f5cefee96b7303ff44ceec6"
+
+[[files]]
+file = "installer/server/mods/lootjs-forge-1.20.1-2.13.0.jar"
+hash = "71ce6c6694787f026ad2fa8e4d31b4ba2595e7fa319e373b963bd18c2f34334d"
+
+[[files]]
+file = "installer/server/mods/mcw-doors-1.1.2-mc1.20.1forge.jar"
+hash = "ca3f93a513f692b28456d1df0bb562ff27564539307618602462ef0d262384a0"
+
+[[files]]
+file = "installer/server/mods/mcw-mcwwindows-2.4.1-mc1.20.1forge.jar"
+hash = "438344fb202a594f47bf490a638a80bf70f4a74c0f1afcec7aa896a753235710"
+
+[[files]]
+file = "installer/server/mods/memoryleakfix-forge-1.17+-1.1.5.jar"
+hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
+
+[[files]]
+file = "installer/server/mods/miners_delight-1.20.1-1.2.3.jar"
+hash = "dd7fda44dba9a9e953e35b36f45e2f30dfc2b1df5141574100c80cd4c2861380"
+
+[[files]]
+file = "installer/server/mods/modernfix-forge-5.24.4+mc1.20.1.jar"
+hash = "98d77cb29c718934b1d5d465d3725a0de4284bf3c8033d6553a7dd3b15956fe4"
+
+[[files]]
+file = "installer/server/mods/moonlight-1.20-2.16.14-forge.jar"
+hash = "9cb836b2fd138460e35d890eb448b07cb04b18f9ffe04cd0036cf894350c38b9"
+
+[[files]]
+file = "installer/server/mods/morejs-forge-1.20.1-0.10.1.jar"
+hash = "bffc387943fb6bdfef8fcb6857aaa285f0a33575c9ada3cd66f54352cdb82892"
+
+[[files]]
+file = "installer/server/mods/mutil-1.20.1-6.2.0.jar"
+hash = "7222976219f6279ca2d3ee91b3ca1f0e11fad9b665bd632316ff9dd4c967c7c1"
+
+[[files]]
+file = "installer/server/mods/naturalist-5.0pre3+forge-1.20.1.jar"
+hash = "7c39dcbd49e60a11955d60545498815fd2a0f490172aff28d3bd43f07111b458"
+
+[[files]]
+file = "installer/server/mods/neapolitan-1.20.1-5.1.0.jar"
+hash = "929771b557c48c73c36cf34c2fcc97e19f415b9d2110f7e1a8a73fedb4260e5d"
+
+[[files]]
+file = "installer/server/mods/noisium-merged-2.0.1+mc1.20.x.jar"
+hash = "85fcb2e1165d30913bf1453502997aa389bc13a92b5dc57645199d808d7e51b2"
+
+[[files]]
+file = "installer/server/mods/notenoughcrashes-4.4.9+1.20.1-forge.jar"
+hash = "e944656f2671b87d52af9756c48bcfb5b90956bef1a40bf1b5fcae731a367518"
+
+[[files]]
+file = "installer/server/mods/oceansdelight-1.0.2-1.20.jar"
+hash = "ea6ae6bd1459046b7d7fd2c515a80b6966ff2c629bdf22d6298f0a73432b932d"
+
+[[files]]
+file = "installer/server/mods/personality-1.20.1-4.1.0.jar"
+hash = "2eb9e7820f75d9e766b9eb176fc95a0b943f9a688b0158ac85ed1ff9d88613ac"
+
+[[files]]
+file = "installer/server/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
+hash = "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
+
+[[files]]
+file = "installer/server/mods/rhino-forge-2001.2.3-build.10.jar"
+hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
+
+[[files]]
+file = "installer/server/mods/right_click_get_crops-1.20.1-1.6.0.12.jar"
+hash = "43b5d4f5c3c3737fd10d18eab5d2c9d6734f9ad9b6d1a72aeddb7b9c9f2ef5ec"
+
+[[files]]
+file = "installer/server/mods/savage_and_ravage-1.20.1-6.0.1.jar"
+hash = "6df35846b724ff95aa2e54a858ff0b354e0fadd8caa49985e3a34006921cb257"
+
+[[files]]
+file = "installer/server/mods/simpleshops-1.2.2.jar"
+hash = "2afb0026e34601f1da9d0a11ddea41a63de69df110d9a3d0ada0523a33f9eeb2"
+
+[[files]]
+file = "installer/server/mods/spark-1.10.53-forge.jar"
+hash = "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed"
+
+[[files]]
+file = "installer/server/mods/styled-nicknames-1.2.1+1.20.jar"
+hash = "43e1ce274351849036e61de4265203dd2370bb792a2a92cfefd94bf4a575b616"
+
+[[files]]
+file = "installer/server/mods/supplementaries-1.20-3.1.41.jar"
+hash = "592eaac4d90b4d75516749db6bcc1303866af6007be3ce24b9a85f19afeef70a"
+
+[[files]]
+file = "installer/server/mods/table_top_craft-forge-1.20.1-6.1.2.jar"
+hash = "f27c7028ba08932986b170c06abcf991c98af14746ac045e237781b58ac5d82c"
+
+[[files]]
+file = "installer/server/mods/tetra-1.20.1-6.11.0.jar"
+hash = "f76ec849b5f9dcb4c11aae14ea710139f6f6874c2f908114b3ba5dd18f077c2d"
+
+[[files]]
+file = "installer/server/mods/tetracelium-1.20.1-1.3.1.jar"
+hash = "57bb32d7eb25a609232658bfe0b66810e43545e8b6f3a1c63029a016a8997a3f"
+
+[[files]]
+file = "installer/server/mods/tetraextras-0.1.4-1.20.1.jar"
+hash = "2af2227fbe807858fe22a0aacb0ee515bcf23fb7f00202f5147d38cd7e6ea4bb"
+
+[[files]]
+file = "installer/server/mods/trinkets-3.7.2.jar"
+hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
+
+[[files]]
+file = "installer/server/mods/vanillabackport-forge-1.20.1-1.1.4.3.jar"
+hash = "f95585e4dc868d5fd744d301e04606282a4d8ea54a39d38089d331aa7e91b7aa"
+
+[[files]]
+file = "installer/server/mods/vintagedelight-0.1.6.jar"
+hash = "f3645fcf42546edb5fe09bee833f2e7524dd93b9b5380ecae3d3aa2847a4c9db"
+
+[[files]]
+file = "installer/server/mods/voicechat-forge-1.20.1-2.6.6.jar"
+hash = "94d65a8049e5b806c3ae7d50af763bf9eb80121c13b52408819be40355e41ba9"
+
+[[files]]
+file = "installer/server/mods/watut-forge-1.20.1-1.2.3.jar"
+hash = "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e"
+
+[[files]]
+file = "installer/server/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "installer/server/options.txt"
+hash = "caccfc25307ddafa17c0cd0b155b904a889d7ac6f8dbf5f06f9bf315c99e6217"
+
+[[files]]
+file = "installer/server/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "installer/server/resourcepacks/Curated Vanilla Tweaks.zip"
+hash = "5e4fedfaf116a71063b73f592f26208779942caa47895410f20b620ca6288ece"
+
+[[files]]
+file = "installer/server/server.zip"
+hash = "77000e0207399ca5450f3f832702651a0f396777365a3840e999bf045c3fb989"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -634,7 +1746,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/tweaks.js"
-hash = "b8e02f30077da29aaea8a91a2db87b126676a6ed7f30a01d52c530ea467ce483"
+hash = "573a0b5231c12f2e6fa2523fd0fcbd3e82b2ef613bb43f0f215b77675c477682"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -745,6 +1857,11 @@ hash = "0b98721023b797c05cc48bee4bccdd5851e55551275baec2a7c1ff2a548e12d1"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "bb8b36ded9744d09db566e56b13368b6f4396180b531b36323982c852bea09d2"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
@@ -812,6 +1929,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "3497e48c52866fe536932d77fbb5cb1793d4e268e52873f1ca5c1e961b777814"
+metafile = true
+
+[[files]]
+file = "mods/dice-rebuild.pw.toml"
+hash = "d9a5afb46601b630f07d9783ac41526706037e6ca17da24bbdc0d539701ab64e"
 metafile = true
 
 [[files]]
@@ -916,6 +2038,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "ef02d7733259ff599e02575534f1bd8d793d7e929b2e42b237b8844cdebb1302"
 metafile = true
 
 [[files]]
@@ -1071,6 +2198,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "8fb0ae9433533a1d24f9b738d6fa27f1d3091b10fd60fd9b0944b48901993c7e"
+metafile = true
+
+[[files]]
+file = "mods/mc-cards.pw.toml"
+hash = "9d97a9a28c59c0f2e7da402b0b37c1d67f5d0b8cd0c91cd65a23fcb2cea9dc4f"
 metafile = true
 
 [[files]]
@@ -1249,6 +2381,16 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
+file = "mods/simple-football.pw.toml"
+hash = "3b157b10a45fc17799a1231a92c6144e4140878664f31b94d8f109629fc659b6"
+metafile = true
+
+[[files]]
+file = "mods/simple-soccer.pw.toml"
+hash = "3b0dcb7b47f1209bbd0845ba2896f034d635015f9b5f23242704e5371572f7cb"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
 metafile = true
@@ -1300,7 +2442,7 @@ metafile = true
 
 [[files]]
 file = "mods/toadlib.pw.toml"
-hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
+hash = "cb19b08de8c335a0e69387f2f69fb0dc4652f351a09270954a6189b6171cabc9"
 metafile = true
 
 [[files]]

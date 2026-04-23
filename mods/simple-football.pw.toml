@@ -1,0 +1,13 @@
+name = "Simple Football"
+filename = "football-1.5.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GbBeHyC4/versions/YB2Fq9MS/football-1.5.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "59f4e488763d9f201a802237247362ad00e77f698cf1a5e31f2137f0462774d9c7e023093fd86ae2738a6f051103e9fa93f5a020dd702db65d7362fd5281fbcf"
+
+[update]
+[update.modrinth]
+mod-id = "GbBeHyC4"
+version = "YB2Fq9MS"

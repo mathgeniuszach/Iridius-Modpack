@@ -1,0 +1,13 @@
+name = "Simple Soccer"
+filename = "simplesoccer-1.2.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3vCEp0x3/versions/75nI4ZtF/simplesoccer-1.2.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "881e6f89dd48e6c91ac5e7ee750bc2ac36a3d2589a8245aae47dbca9bb5bf70cc13c893dcb4a5e77550c815194c9cdaf9867443d7f7ad2c2ecfe8e64e8fad670"
+
+[update]
+[update.modrinth]
+mod-id = "3vCEp0x3"
+version = "75nI4ZtF"

@@ -42,9 +42,11 @@ Other simple mods you should know about just for the functionality.
 Content mods (excluding Food Mods) add brand completely new content to the game.
 
 - **[Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)** ♨️ - Refactor of vanilla systems like enchanting, spawners, and attributes.
+- **[Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)** ♨️ - Allows for building custom blocks from subblocks as small as 1/16th of a block wide.
 - **[Cosmetic Armors](https://modrinth.com/mod/cosmeticarmours)** - Adds extra cosmetic armors.
 - **[Create](https://modrinth.com/mod/create)** - A steampunky-style tech mod.
 - **[Critter Armory](https://modrinth.com/mod/critter-armory)** - Adds the ability to put player armor on critters.
+- **[Dice Rebuild](https://modrinth.com/mod/dice-rebuild)** - Adds tiny, physics-based dice!
 - **[Ensorcellation](https://modrinth.com/mod/ensorcellation)** - Some more enchants.
 - **[Exposure](https://modrinth.com/mod/exposure)** - Adds photography to Minecraft, with film development.
 - **[Immersive Melodies](https://modrinth.com/mod/immersive-melodies)** - Adds musical instruments that can preset songs and ABC files!
@@ -56,10 +58,12 @@ Content mods (excluding Food Mods) add brand completely new content to the game.
     - **[Macow's Windows](https://modrinth.com/mod/macaws-windows)** - Adds curtains, blinds, and more windows.
 
     </details>
+- **[MC Cards](https://modrinth.com/mod/mc-cards)** - Adds trading cards and trading card packs to the game.
 - **[Mr Crayfish's Furnature Mod](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)** ♨️ - Adds a bunch of furnature for roleplaying with.
 - **[Naturalist](https://modrinth.com/mod/naturalist)** - Adds 24 new animals with an ecological structure and food chain.
 - **[Quark](https://modrinth.com/mod/quark)** - Many, many large and small changes. Enabled on a per-feature basis.
 - **[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)** - Extensions to Illager raids.
+- **[Simple Football](https://modrinth.com/mod/simple-football)** and **[Simple Soccer](https://modrinth.com/mod/simple-soccer)** - Adds Soccer Balls and American Footballs to the game.
 - **[Simple Shops](https://modrinth.com/mod/simpleshops)** - Simple player shops for allowing for offline trading.
 - **[Supplementaries](https://modrinth.com/mod/supplementaries)** - Small vanila-like features. Enabled on a per-feature basis.
 - **[Tetra](https://modrinth.com/mod/tetra)** - Custom tool/weapon editing for the ultimate blacksmith.
@@ -177,6 +181,7 @@ This is for useful mods you don't really need to know much about, because they e
     - **[Rubidium Extra](https://modrinth.com/mod/rubidium-extra)** - Adds some extra settings to Embeddium.
 - **[Enlightened Block Entities](https://modrinth.com/mod/ebe-forge)** - Enhances block entities, improving performance and appearance.
 - **[Entity Culling](https://modrinth.com/mod/entityculling)** - Skip rendering entities out of sight.
+- **[Fast Backups](https://modrinth.com/mod/fastback)** - Provides fast, incremental backups for Minecraft worlds.
 - **[Fast Boot](https://modrinth.com/mod/fastboot)** - Improves game loading times.
 - **[FerriteCore](https://modrinth.com/mod/ferrite-core)** - Memory efficiency improvements.
 - **[Game Menu Remove GFARB](https://modrinth.com/mod/gamemenuremovegfarb)** - Removes the bug report/feedback buttons as they're not relevant to modded.

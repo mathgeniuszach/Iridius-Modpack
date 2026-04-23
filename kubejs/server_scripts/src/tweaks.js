@@ -18,8 +18,6 @@ let doughs = [
 ]
 
 let random = [
-    "minecraft:ender_eye",
-
     "trials:crafter",
     "refurbished_furniture:wrench",
     "refurbished_furniture:wheat_flour",
@@ -51,7 +49,8 @@ let random = [
     "mynethersdelight:slices_of_bread",
     "mynethersdelight:toasts",
     "mynethersdelight:bread_loaf",
-    "mynethersdelight:ghast_sourdough"
+    "mynethersdelight:ghast_sourdough",
+    "simpleshops:simple_shop"
 ]
 
 let random_recipe = [
@@ -109,6 +108,17 @@ ServerEvents.recipes(e => {
     //e.replaceInput({}, "minecraft:wheat", "#forge:flour")
     
     e.replaceInput({id: "mynethersdelight:crafting/golden_egg"}, "mynethersdelight:boiled_egg", "#forge:cooked_eggs")
+
+    e.replaceInput({}, "minecraft:chest", "#forge:chests/wooden")
+    e.shaped("simpleshops:simple_shop", [
+        " I ",
+        "PPP",
+        "PCP"
+    ], {
+        "I": "minecraft:iron_ingot",
+        "P": "#minecraft:planks",
+        "C": "#forge:chests/wooden",
+    })
 
     e.shapeless("minecraft:bread", [
         "minecraft:wheat",
@@ -476,9 +486,6 @@ LootJS.modifiers(e => {
 //                .applyBinomialDistributionBonus("minecraft:silk_touch", 0.7, 3)
                 .applyBinomialDistributionBonus("minecraft:fortune", 0.3, 1)
         )
-    
-    e.addLootTableModifier(/.*/)
-        .removeLoot("minecraft:ender_eye")
     
     e.addLootTableModifier("minecraft:chests/nether_bridge")
         .addLoot(LootEntry.of("kubejs:heart_of_the_flame").when(c => c.randomChance(0.5)))
