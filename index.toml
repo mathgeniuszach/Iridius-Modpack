@@ -86,7 +86,7 @@ hash = "253427324a027ed91094af07e3329b8849cfe60ac1cf4ff11293c5c015ddf5de"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "efe0878769479b18d1b0f1b39957292b18dfb06506acd6afa6ae4e6a80d96064"
+hash = "50b63a251e450f475efe520ac90ba6fb01498a66e2d23421e79ca2f2aeb1a35b"
 
 [[files]]
 file = "config/refurbished_furniture.server.toml"
@@ -99,6 +99,10 @@ hash = "e36d04742781258fd4faf45a5ca121bc400ff0b8eac861e91e74310a2487e4a7"
 [[files]]
 file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "497bc77fa54d427e737391e9e31c28eae67b2fda5afbac24160f2492256e0451"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -1750,7 +1754,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/tweaks.js"
-hash = "e6b712d58f05873b1fe0555b0af85516cf2c8b135b19dde68f63d0a6e436d6c1"
+hash = "ad16a8f5ceda232945d3c590561ae4aa097dc7c344392719054aa2a166a59971"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -1936,9 +1940,8 @@ hash = "3497e48c52866fe536932d77fbb5cb1793d4e268e52873f1ca5c1e961b777814"
 metafile = true
 
 [[files]]
-file = "mods/dice-rebuild.pw.toml"
-hash = "d9a5afb46601b630f07d9783ac41526706037e6ca17da24bbdc0d539701ab64e"
-metafile = true
+file = "mods/dice-1.0.3.jar"
+hash = "d1bd5a90e9b0a025728925737f0ff878e71f95bb87648daab6d51a6c4255c345"
 
 [[files]]
 file = "mods/ding.pw.toml"
@@ -1947,7 +1950,7 @@ metafile = true
 
 [[files]]
 file = "mods/doubleslabs-forge-1.20.1-0.1.2.jar"
-hash = "34d66680bf90ff5934562bcf8481a564e2d0d40fc30f59a29c003364999ce217"
+hash = "915129b6fbcc8cb05b8f101f8551b5b6dc22dd66dabc194d7c6a03d4f5a603c2"
 
 [[files]]
 file = "mods/drogstyle.pw.toml"
@@ -2335,9 +2338,8 @@ hash = "b1f540bb76039ab86c9160d8d92ca93fe21559aef95f1e5819f7061740c6e8a6"
 metafile = true
 
 [[files]]
-file = "mods/playing-cards-chips.pw.toml"
-hash = "737bfceef35e01742ad90a9779b61a437cf0fb9742c23dafc4dba44a9c819660"
-metafile = true
+file = "mods/playingcards-2.0.1.jar"
+hash = "3a8a5d26a833a8a1c2d9da98fb59a18fdbb8e5cd147aa9b123b878c98f9af67d"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -2415,9 +2417,8 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "f30b7c49b72607c07fc8b3a06355d03ffdbb0b9d6d2e9bccbf994b8299cc8f5f"
-metafile = true
+file = "mods/styled-nicknames-1.2.1+1.20.jar"
+hash = "7896ca99db493982460291b999571955c189b0c729dec425d26899e5c06e7009"
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
