@@ -1,12 +1,12 @@
 name = "Iridius Modpack"
 author = "mathgeniuszach"
-version = "1.3.4"
+version = "1.3.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6873662856174cb9565cfb04fd9fb46c50ba6548cfbf1a06ea1760856f2820be"
+hash = "be6c9069cf7552e9088f6322cec874b0a169c9bd60dbe108e117aa89a3d9f7dc"
 
 [versions]
 forge = "47.4.0"

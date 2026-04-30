@@ -1941,7 +1941,7 @@ metafile = true
 
 [[files]]
 file = "mods/dice-1.0.3.jar"
-hash = "d1bd5a90e9b0a025728925737f0ff878e71f95bb87648daab6d51a6c4255c345"
+hash = "d4445defaa8582c99586410d7446d009b87a6c5959f9136615f6e9fcb8bc2f39"
 
 [[files]]
 file = "mods/ding.pw.toml"
@@ -2339,7 +2339,7 @@ metafile = true
 
 [[files]]
 file = "mods/playingcards-2.0.1.jar"
-hash = "3a8a5d26a833a8a1c2d9da98fb59a18fdbb8e5cd147aa9b123b878c98f9af67d"
+hash = "80873c3021e41c66cd24629c3cb442fef71baa0b70ea4645e4354fb6061aa4c4"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -2418,7 +2418,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-nicknames-1.2.1+1.20.jar"
-hash = "7896ca99db493982460291b999571955c189b0c729dec425d26899e5c06e7009"
+hash = "24467f0d790487a0b8796614936172efce7a989bd17df3187afbd411bcbaa020"
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
